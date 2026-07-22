@@ -1,0 +1,37 @@
+{
+  "_note": "Fiche-notion structurée (graine pour le générateur JSON→HTML). La page HTML actuelle est écrite à la main à partir de ces éléments.",
+  "id": "asalat-al-wujud",
+  "terme": "asalat-al-wujud",
+  "voyage": 1,
+  "domaine": "wujud",
+  "statut": "pilote",
+  "une_phrase_fr": "Ce qui fait la réalité d'une chose n'est pas son essence — ce qu'elle est — mais son acte d'exister.",
+  "une_phrase_en": "What makes a thing real is not its essence — what it is — but its act of existing.",
+  "niveaux": {
+    "1_saisir": true,
+    "2_experience": { "exemple": "le concept de feu ne brûle pas ; seul le feu existant brûle", "schema": true },
+    "3_raisonnement": {
+      "etapes": 7,
+      "distinctions": ["concept/réalité de l'existence", "existence/essence", "unité du concept/gradation du réel", "existence absolue/existences déterminées"],
+      "contresens": ["existence = propriété ajoutée", "tous les êtres au même degré", "gradation = quantité", "primauté = négation de l'essence"],
+      "questions_internes": ["une et multiple ?", "réalité simple à degrés ?", "d'où vient l'essence ?"]
+    },
+    "4_texte": {
+      "reference": "al-Ḥikma al-mutaʿāliya fī l-asfār al-ʿaqliyya al-arbaʿa — Voyage I, Partie 1, al-marḥala al-ūlā (fī l-wujūd)",
+      "reference_statut": "page & édition À VÉRIFIER (aucun OCR arabe installé)",
+      "texte_edition": "الوجود حقيقة عينية واحدة بسيطة لا اختلاف بين أفرادها لذاتها إلا بالكمال والنقص والشدة والضعف",
+      "texte_vocalise_ajoute": "الْوُجُودُ حَقِيقَةٌ عَيْنِيَّةٌ وَاحِدَةٌ بَسِيطَةٌ لَا اخْتِلَافَ بَيْنَ أَفْرَادِهَا لِذَاتِهَا إِلَّا بِالْكَمَالِ وَالنَّقْصِ وَالشِّدَّةِ وَالضَّعْفِ",
+      "vocalisation_statut": "travail éditorial interprétatif — à vérifier, jamais généré à l'aveugle",
+      "translitteration": "al-wujūdu ḥaqīqatun ʿayniyyatun wāḥidatun basīṭatun lā ikhtilāfa bayna afrādihā li-dhātihā illā bi-l-kamāli wa-l-naqṣi wa-l-shiddati wa-l-ḍaʿf",
+      "traduction_fr": "L'existence est une réalité concrète, une et simple ; ses individus ne diffèrent pas entre eux par leur essence même, sinon par la perfection et le manque, l'intensité et la faiblesse.",
+      "traduction_en": "Existence is a single, simple, concrete reality; its instances do not differ from one another in their very essence, save by perfection and deficiency, intensity and weakness."
+    },
+    "5_systeme": true
+  },
+  "reseau": {
+    "depend_de": [{ "id": "distinction wujūd/māhiyya", "ar": "وُجُود / مَاهِيَّة" }],
+    "rend_possible": ["tashkik", "haraka-jawhariyya", "nafs", "maad"],
+    "liees": ["mahiyya", "wujud-dhihni", "wahdat-al-wujud"]
+  },
+  "fil_suivant": "tashkik"
+}

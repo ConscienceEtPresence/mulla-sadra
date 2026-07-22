@@ -1,0 +1,24 @@
+{
+  "_note": "Graphe des notions — source unique de la carte conceptuelle ET des panneaux « réseau » de chaque page. amont = dépend de ; aval = rend possible.",
+  "noeuds": [
+    { "id": "asalat-al-wujud", "label_fr": "Primauté de l'existence", "label_en": "Primacy of existence", "ar": "أَصَالَةُ الْوُجُودِ", "voyage": 1, "domaine": "wujud", "url": "notions/asalat-al-wujud.html" },
+    { "id": "tashkik", "label_fr": "Gradation de l'existence", "label_en": "Gradation of existence", "ar": "تَشْكِيك", "voyage": 1, "domaine": "wujud", "url": null },
+    { "id": "illa", "label_fr": "Cause et effet", "label_en": "Cause and effect", "ar": "العِلَّة", "voyage": 1, "domaine": "causalite", "url": null },
+    { "id": "haraka-jawhariyya", "label_fr": "Mouvement substantiel", "label_en": "Substantial motion", "ar": "الْحَرَكَة الْجَوْهَرِيَّة", "voyage": 2, "domaine": "nature", "url": null },
+    { "id": "nafs", "label_fr": "L'âme", "label_en": "The soul", "ar": "النَّفْس", "voyage": 4, "domaine": "ame", "url": null },
+    { "id": "aql", "label_fr": "L'intellect", "label_en": "The intellect", "ar": "العَقْل", "voyage": 4, "domaine": "ame", "url": null },
+    { "id": "maad", "label_fr": "Le retour", "label_en": "The return", "ar": "المَعَاد", "voyage": 4, "domaine": "retour", "url": null }
+  ],
+  "liens": [
+    { "de": "asalat-al-wujud", "vers": "tashkik", "type": "rend_possible" },
+    { "de": "tashkik", "vers": "haraka-jawhariyya", "type": "rend_possible" },
+    { "de": "asalat-al-wujud", "vers": "illa", "type": "rend_possible" },
+    { "de": "haraka-jawhariyya", "vers": "nafs", "type": "rend_possible" },
+    { "de": "nafs", "vers": "aql", "type": "rend_possible" },
+    { "de": "nafs", "vers": "maad", "type": "rend_possible" }
+  ],
+  "fil": {
+    "_note": "« Suivre le fil » : le chemin naturel voulu par Ṣadrā.",
+    "sequence": ["wujud", "tashkik", "illa", "haraka-jawhariyya", "nafs", "aql", "maad"]
+  }
+}
