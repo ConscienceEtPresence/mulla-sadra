@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Explore — the map of notions · Mullā Ṣadrā</title>
+  <meta name="description" content="The conceptual map of Mullā Ṣadrā's thought: each notion is a node; travel from one to the next, following what it depends on and what it makes possible." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpolygon points='20,3 35,15 20,37 5,15' fill='none' stroke='%23B8860B' stroke-width='2'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/base.css" />
+  <link rel="alternate" hreflang="fr" href="https://conscienceetpresence.github.io/mulla-sadra/explorer.html" />
+  <link rel="alternate" hreflang="en" href="https://conscienceetpresence.github.io/mulla-sadra/en/explorer.html" />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="index.html">Mullā&nbsp;Ṣadrā <span>· The Four Journeys</span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="notions/asalat-al-wujud.html">Understand</a>
+      <a href="explorer.html" aria-current="page">Explore</a>
+      <a href="glossaire.html">Glossary</a>
+      <a href="auteur.html">The author</a>
+      <a class="lang-switch" href="../explorer.html" data-lang="fr" lang="fr" aria-label="Français">FR</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="concept-hero" style="padding-bottom:var(--md)">
+      <p class="kicker">Explore</p>
+      <p class="ar" lang="ar" style="font-size:clamp(2rem,6vw,3rem)">خَرِيطَةُ الفِكْر</p>
+      <p class="frEn">The map of notions</p>
+      <p style="max-width:46ch;margin:var(--sm) auto 0;color:var(--star-dim);font-family:var(--font-serif)">Each notion is a node. Travel from one to the next — seeing at a glance what it depends on and what it makes possible. This is how Ṣadrā thinks: as a network.</p>
+    </section>
+
+    <div class="galaxy-wrap">
+      <p class="galaxy-hint">Hover a star · click to enter a notion</p>
+      <div class="galaxy-grid">
+        <div class="galaxy-svg"><svg id="galaxy" role="img" aria-label="Conceptual map of Mullā Ṣadrā's notions"></svg></div>
+        <aside class="galaxy-card" id="galaxy-card" aria-live="polite"></aside>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p class="motto">“Everything holds together: the same existence, grasped at each degree.”</p>
+    <p>Map under construction — notions open as they are written.</p>
+  </footer>
+
+  <script>
+  window.MAP = {
+    i18n:{ hint:"Choose a star to see its links.", up:"Depends on", down:"Makes possible", open:"Open the notion", soon:"Notion forthcoming" },
+    nodes:[
+      { id:"asalat", label:"Primacy of existence", ar:"أَصَالَةُ الْوُجُودِ", tr:"aṣālat al-wujūd", x:150, y:130, big:true, url:"notions/asalat-al-wujud.html" },
+      { id:"mahiyya", label:"Essence", ar:"مَاهِيَّة", tr:"māhiyya", x:150, y:300 },
+      { id:"tashkik", label:"Gradation", ar:"تَشْكِيك", tr:"tashkīk", x:315, y:130, url:"notions/tashkik.html" },
+      { id:"illa", label:"Cause", ar:"العِلَّة", tr:"al-ʿilla", x:315, y:290 },
+      { id:"jawhar", label:"Substance", ar:"الجَوْهَر", tr:"jawhar", x:470, y:70 },
+      { id:"haraka", label:"Substantial motion", ar:"الحَرَكَة الجَوْهَرِيَّة", tr:"al-ḥaraka al-jawhariyya", x:480, y:210, big:true },
+      { id:"zaman", label:"Time", ar:"الزَّمان", tr:"al-zamān", x:480, y:360 },
+      { id:"wajib", label:"Necessary Being", ar:"واجِب الوُجُود", tr:"wājib al-wujūd", x:645, y:110, big:true },
+      { id:"nafs", label:"The soul", ar:"النَّفْس", tr:"al-nafs", x:660, y:270, big:true },
+      { id:"aql", label:"Intellect", ar:"العَقْل", tr:"al-ʿaql", x:660, y:410 },
+      { id:"maad", label:"The return", ar:"المَعَاد", tr:"al-maʿād", x:820, y:250, big:true }
+    ],
+    links:[
+      { from:"mahiyya", to:"asalat" },
+      { from:"asalat", to:"tashkik" },
+      { from:"asalat", to:"illa" },
+      { from:"tashkik", to:"haraka" },
+      { from:"jawhar", to:"haraka" },
+      { from:"haraka", to:"zaman" },
+      { from:"illa", to:"wajib" },
+      { from:"asalat", to:"wajib" },
+      { from:"haraka", to:"nafs" },
+      { from:"nafs", to:"aql" },
+      { from:"nafs", to:"maad" },
+      { from:"wajib", to:"maad" }
+    ]
+  };
+  </script>
+  <script src="../assets/js/lang.js" defer></script>
+  <script src="../assets/js/explorer.js" defer></script>
+  <script type="module" src="../assets/js/pulse.js"></script>
+</body>
+</html>
