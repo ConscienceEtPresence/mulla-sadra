@@ -3,7 +3,7 @@
   "noeuds": [
     { "id": "asalat-al-wujud", "label_fr": "Primauté de l'existence", "label_en": "Primacy of existence", "ar": "أَصَالَةُ الْوُجُودِ", "voyage": 1, "domaine": "wujud", "url": "notions/asalat-al-wujud.html" },
     { "id": "tashkik", "label_fr": "Gradation de l'existence", "label_en": "Gradation of existence", "ar": "تَشْكِيك", "voyage": 1, "domaine": "wujud", "url": null },
-    { "id": "illa", "label_fr": "Cause et effet", "label_en": "Cause and effect", "ar": "العِلَّة", "voyage": 1, "domaine": "causalite", "url": null },
+    { "id": "illa", "label_fr": "Cause et effet", "label_en": "Cause and effect", "ar": "العِلَّة", "voyage": 1, "domaine": "causalite", "url": "notions/al-illa.html" },
     { "id": "haraka-jawhariyya", "label_fr": "Mouvement substantiel", "label_en": "Substantial motion", "ar": "الْحَرَكَة الْجَوْهَرِيَّة", "voyage": 2, "domaine": "nature", "url": null },
     { "id": "nafs", "label_fr": "L'âme", "label_en": "The soul", "ar": "النَّفْس", "voyage": 4, "domaine": "ame", "url": null },
     { "id": "aql", "label_fr": "L'intellect", "label_en": "The intellect", "ar": "العَقْل", "voyage": 4, "domaine": "ame", "url": null },

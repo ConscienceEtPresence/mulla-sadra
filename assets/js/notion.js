@@ -38,7 +38,8 @@
     wajib:{ar:'وَاجِب الوُجُود',tr:'wājib al-wujūd',fr:"L'Être nécessaire : le degré suprême d'existence, source de tous les autres.",en:'The Necessary Being: the supreme degree of existence, source of all others.'},
     haraka:{ar:'حَرَكَة جَوْهَرِيَّة',tr:'ḥaraka jawhariyya',fr:'Le mouvement substantiel : la substance même se renouvelle.',en:'Substantial motion: substance itself is renewed.'},
     nafs:{ar:'نَفْس',tr:'nafs',fr:"L'âme, corporelle dans son apparition, spirituelle dans sa subsistance.",en:'The soul, bodily in origin, spiritual in subsistence.'},
-    maad:{ar:'مَعَاد',tr:'maʿād',fr:'Le retour, la résurrection — terme du quatrième voyage.',en:'The return, resurrection — end of the fourth journey.'}
+    maad:{ar:'مَعَاد',tr:'maʿād',fr:'Le retour, la résurrection — terme du quatrième voyage.',en:'The return, resurrection — end of the fourth journey.'},
+    malul:{ar:'مَعْلُول',tr:'maʿlūl',fr:"L'effet : un degré d'existence qui dépend entièrement de sa cause.",en:'The effect: a degree of existence wholly dependent on its cause.'}
   };
   var tip=document.createElement('div');tip.className='tip';document.body.appendChild(tip);
   function show(el){
