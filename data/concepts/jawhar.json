@@ -1,0 +1,18 @@
+{
+  "id": "jawhar",
+  "ar": "جوهر",
+  "translit": "jawhar",
+  "fr": "Substance",
+  "definition_courte": "Ce qui existe en soi et non dans un sujet.",
+  "definition_longue": "La substance constitue l'un des concepts fondamentaux hérités de la philosophie aristotélicienne. Mullā Ṣadrā conserve cette notion tout en renouvelant profondément sa compréhension grâce au mouvement substantiel.",
+  "concepts_lies": [
+    "arad",
+    "haraka-jawhariyya",
+    "wujud"
+  ],
+  "questions": [
+    "Une substance demeure-t-elle identique au cours du changement ?",
+    "Comment une substance peut-elle être en mouvement ?"
+  ],
+  "statut": "editorial"
+}

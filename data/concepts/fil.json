@@ -1,0 +1,24 @@
+{
+  "id": "fil",
+  "ar": "الفعل",
+  "translit": "al-fiʿl",
+  "fr": "Acte",
+  "definition_courte": "Actualisation complète d'une puissance.",
+  "definition_longue": "L'acte représente l'accomplissement d'une capacité. Chez Mullā Ṣadrā, la dynamique puissance-acte prend une dimension ontologique liée à l'intensification de l'être.",
+  "concepts_lies": [
+    "quwwa",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "Pourquoi l'acte est-il considéré comme plus parfait que la puissance ?",
+    "Le passage à l'acte est-il instantané ou progressif ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 7,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

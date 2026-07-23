@@ -1,0 +1,25 @@
+{
+  "id": "al-malul",
+  "ar": "المعلول",
+  "translit": "al-maʿlūl",
+  "fr": "Effet",
+  "definition_courte": "Ce dont l'existence dépend d'une cause.",
+  "definition_longue": "Dans les Asfār, l'effet n'est pas simplement produit une fois par sa cause : il demeure dépendant d'elle dans son être même. La causalité est une relation ontologique permanente.",
+  "concepts_lies": [
+    "al-illa",
+    "wujud",
+    "tashkik"
+  ],
+  "questions": [
+    "Pourquoi l'effet ne possède-t-il pas son existence par lui-même ?",
+    "En quel sens dépend-il continuellement de sa cause ?"
+  ],
+  "references": [
+    {
+      "volume": 2,
+      "marhala": 6,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

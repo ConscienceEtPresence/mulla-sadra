@@ -1,0 +1,31 @@
+{
+  "id": "haraka-jawhariyya",
+  "ar": "الحركة الجوهرية",
+  "translit": "al-ḥaraka al-jawhariyya",
+  "fr": "Mouvement substantiel",
+  "definition_courte": "La substance elle-même est en devenir.",
+  "definition_longue": "L'une des doctrines les plus originales de Mullā Ṣadrā affirme que le changement ne concerne pas seulement les accidents mais atteint la substance elle-même. L'univers entier est ainsi compris comme un devenir continu de l'être.",
+  "prerequis": [
+    "jawhar",
+    "arad",
+    "quwwa",
+    "fil",
+    "asalat-al-wujud",
+    "tashkik"
+  ],
+  "ouvre_vers": [
+    "nafs",
+    "ittihad-al-aqil-wa-al-maqul"
+  ],
+  "questions": [
+    "Pourquoi le changement touche-t-il la substance ?",
+    "Comment concilier identité et transformation ?",
+    "Pourquoi cette doctrine renouvelle-t-elle toute la cosmologie ?"
+  ],
+  "erreurs": [
+    "Croire que seule la matière change.",
+    "Confondre mouvement substantiel et déplacement spatial.",
+    "Réduire cette doctrine à une théorie physique."
+  ],
+  "statut": "editorial"
+}

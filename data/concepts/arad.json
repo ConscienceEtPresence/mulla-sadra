@@ -1,0 +1,17 @@
+{
+  "id": "arad",
+  "ar": "عرض",
+  "translit": "ʿaraḍ",
+  "fr": "Accident",
+  "definition_courte": "Ce qui existe dans une substance.",
+  "definition_longue": "La couleur, la quantité, la position ou encore la qualité sont des accidents. Ils ne possèdent pas d'existence indépendante mais existent dans une substance.",
+  "concepts_lies": [
+    "jawhar",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "Pourquoi un accident ne peut-il pas exister seul ?",
+    "Quelle différence entre changement accidentel et changement substantiel ?"
+  ],
+  "statut": "editorial"
+}

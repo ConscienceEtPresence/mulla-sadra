@@ -1,0 +1,24 @@
+{
+  "id": "quwwa",
+  "ar": "القوة",
+  "translit": "al-quwwa",
+  "fr": "Puissance",
+  "definition_courte": "Possibilité réelle d'un être avant son actualisation.",
+  "definition_longue": "La puissance désigne une capacité réelle à devenir. Elle n'est ni un simple possible logique ni un être pleinement réalisé.",
+  "concepts_lies": [
+    "fil",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "Qu'est-ce qui distingue la puissance du non-être ?",
+    "Pourquoi tout devenir suppose-t-il une puissance ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 7,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}
