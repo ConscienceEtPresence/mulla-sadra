@@ -1,0 +1,28 @@
+{
+  "_doc": "Référentiel des concepts. Un concept_id d'un nœud doit exister ici (contrôlé par validate.py).",
+  "concepts": [
+    { "id": "falsafa",          "translit": "falsafa",            "fr": "la philosophie" },
+    { "id": "wujud",            "translit": "al-wujūd",           "fr": "l'existence, l'être" },
+    { "id": "mahiyya",          "translit": "al-māhiyya",         "fr": "l'essence, la quiddité" },
+    { "id": "asalat-al-wujud",  "translit": "aṣālat al-wujūd",    "fr": "primauté de l'existence" },
+    { "id": "tashkik",          "translit": "tashkīk al-wujūd",   "fr": "gradation de l'existence" },
+    { "id": "asil",             "translit": "aṣīl",               "fr": "fondamental" },
+    { "id": "itibari",          "translit": "iʿtibārī",           "fr": "de raison" },
+    { "id": "wujud-rabit",      "translit": "al-wujūd al-rābiṭī", "fr": "existence relationnelle/dépendante" },
+    { "id": "wujud-dhihni",     "translit": "al-wujūd al-dhihnī", "fr": "existence mentale" },
+    { "id": "wajib-al-wujud",   "translit": "wājib al-wujūd",     "fr": "l'Être nécessaire" },
+    { "id": "imkan",            "translit": "imkān",              "fr": "la possibilité" },
+    { "id": "jaol",             "translit": "jaʿl",               "fr": "l'instauration, faire-exister" },
+    { "id": "wahda",            "translit": "al-waḥda",           "fr": "l'unité" },
+    { "id": "kathra",           "translit": "al-kathra",          "fr": "la multiplicité" },
+    { "id": "al-illa",          "translit": "al-ʿilla",           "fr": "la cause" },
+    { "id": "malul",            "translit": "al-maʿlūl",          "fr": "l'effet" },
+    { "id": "haraka-jawhariyya","translit": "al-ḥaraka al-jawhariyya", "fr": "le mouvement substantiel" },
+    { "id": "zaman",            "translit": "al-zamān",           "fr": "le temps" },
+    { "id": "jawhar",           "translit": "al-jawhar",          "fr": "la substance" },
+    { "id": "aql",              "translit": "al-ʿaql",            "fr": "l'intellect" },
+    { "id": "ilm",              "translit": "al-ʿilm",            "fr": "la connaissance" },
+    { "id": "nafs",             "translit": "al-nafs",            "fr": "l'âme" },
+    { "id": "maad",             "translit": "al-maʿād",           "fr": "le retour, la résurrection" }
+  ]
+}

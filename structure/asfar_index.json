@@ -1,0 +1,43 @@
+{
+  "_doc": "Cadre général des Asfār. Vue générée -> Markdown/site. Source de vérité. Voir README_schema.md.",
+  "oeuvre": {
+    "arabic_exact": "الحكمة المتعالية في الأسفار العقلية الأربعة",
+    "translit": "al-Ḥikma al-mutaʿāliya fī l-asfār al-ʿaqliyya al-arbaʿa",
+    "fr": "La Sagesse transcendante dans les quatre voyages de l'intellect",
+    "edition": "édition arabe en 9 volumes (dossier « Les Quatre Voyages (9 vol.) »)"
+  },
+  "voyages": [
+    {
+      "num": 1, "arabic_exact": "من الخلق إلى الحق", "translit": "min al-khalq ilā l-ḥaqq",
+      "fr": "De la création vers le Réel", "volumes": [1, 2, 3],
+      "nomme_dans_texte": { "statut": "EXPL", "ou": "en tête du vol. 1", "verbatim": "السفر الأول وهو الذي من الخلق إلى الحق في النظر إلى طبيعة الوجود وعوارضه الذاتية" }
+    },
+    {
+      "num": 2, "arabic_exact": "بالحق في الحق", "translit": "bi-l-ḥaqq fī l-ḥaqq",
+      "fr": "Par le Réel, dans le Réel", "volumes": [4, 5],
+      "nomme_dans_texte": { "statut": "STRUCT", "note": "Bloc éditorial (philosophie naturelle) associé au 2e voyage dans la structuration ; le titre mystique n'est pas affiché en tête dans cette édition — à confirmer au corps." }
+    },
+    {
+      "num": 3, "arabic_exact": "من الحق إلى الخلق بالحق", "translit": "min al-ḥaqq ilā l-khalq bi-l-ḥaqq",
+      "fr": "Du Réel vers la création, par le Réel", "volumes": [6, 7],
+      "nomme_dans_texte": { "statut": "EXPL", "ou": "en tête du vol. 6", "verbatim": "السفر الثالث في العلم الإلهي", "certainty": "probable" }
+    },
+    {
+      "num": 4, "arabic_exact": "بالحق في الخلق", "translit": "bi-l-ḥaqq fī l-khalq",
+      "fr": "Par le Réel, dans la création", "volumes": [8, 9],
+      "nomme_dans_texte": { "statut": "EXPL", "ou": "en tête du vol. 8", "verbatim": "السفر الرابع في علم النفس", "certainty": "probable" }
+    }
+  ],
+  "volumes": [
+    { "num": 1, "voyage": 1, "voyage_statut": "EXPL",   "unite_dominante": "marhala", "contenu_fr": "L'existence et ses déterminations premières (marâhil 1-3)", "verification": { "opening": true } },
+    { "num": 2, "voyage": 1, "voyage_statut": "STRUCT", "unite_dominante": "marhala", "contenu_fr": "Essence ; unité/multiplicité ; cause et effet (marâhil médianes)", "verification": { "opening": false } },
+    { "num": 3, "voyage": 1, "voyage_statut": "STRUCT", "unite_dominante": "marhala", "contenu_fr": "Substance ; puissance/acte, mouvement, temps ; éternité/origine ; intellect (marâhil 7-10)", "verification": { "opening": false } },
+    { "num": 4, "voyage": 2, "voyage_statut": "STRUCT", "unite_dominante": "fann/maqala", "contenu_fr": "Quantité, qualité, catégories, substance/accident", "verification": { "opening": false } },
+    { "num": 5, "voyage": 2, "voyage_statut": "STRUCT", "unite_dominante": "fann", "contenu_fr": "Corps, matière, forme, natures, renouvellement (mouvement substantiel)", "verification": { "opening": false } },
+    { "num": 6, "voyage": 3, "voyage_statut": "EXPL",   "unite_dominante": "mawqif", "contenu_fr": "Être nécessaire, unité, attributs, science, puissance/volonté (mawâqif 1-6)", "verification": { "opening": false } },
+    { "num": 7, "voyage": 3, "voyage_statut": "EXPL",   "unite_dominante": "mawqif", "contenu_fr": "Parole/révélation, providence, mal, amour, émanation, permanence du don (mawâqif 7-10)", "verification": { "opening": false } },
+    { "num": 8, "voyage": 4, "voyage_statut": "EXPL",   "unite_dominante": "bab", "contenu_fr": "Science de l'âme : facultés, perceptions, âme rationnelle (abwâb 1-7)", "verification": { "opening": false } },
+    { "num": 9, "voyage": 4, "voyage_statut": "STRUCT", "unite_dominante": "bab", "contenu_fr": "Devenir de l'âme et retour : transmigration réfutée, dispositions, résurrection (abwâb 8-11)", "verification": { "opening": false } }
+  ],
+  "note_methode": "voyage_statut STRUCT = rattachement déduit, non affiché en tête dans cette édition. Le détail (marâhil/funûn/mawâqif/abwâb + fuṣûl) est normalisé volume par volume : voir vol1.json (fait), vol2..9 à venir."
+}

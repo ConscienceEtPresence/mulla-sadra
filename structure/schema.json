@@ -1,0 +1,445 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "asfar-node.schema.json",
+  "title": "Nœud de structure des Asfār",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "address",
+    "title",
+    "pages",
+    "textual_basis",
+    "editorial_role",
+    "pedagogical_role",
+    "title_verification",
+    "section_verification",
+    "certainty",
+    "record_status",
+    "annotation"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^v[0-9]+-"
+    },
+    "type": {
+      "enum": [
+        "safar",
+        "maslak",
+        "muqaddima",
+        "marhala",
+        "manhaj",
+        "fann",
+        "maqala",
+        "mawqif",
+        "bab",
+        "fasl",
+        "maqsad",
+        "taraf",
+        "qism"
+      ]
+    },
+    "voyage": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 4
+    },
+    "address": {
+      "type": "object",
+      "required": [
+        "volume",
+        "safar",
+        "maslak",
+        "muqaddima",
+        "marhala",
+        "manhaj",
+        "fann",
+        "maqala",
+        "mawqif",
+        "bab",
+        "fasl"
+      ],
+      "properties": {
+        "volume": {
+          "type": "integer"
+        },
+        "safar": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "maslak": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "muqaddima": {
+          "type": "boolean"
+        },
+        "marhala": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "manhaj": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "fann": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "maqala": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "mawqif": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "bab": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "fasl": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "taraf": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "qism": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    },
+    "title": {
+      "type": "object",
+      "required": [
+        "arabic_raw_ocr",
+        "arabic_diplomatic",
+        "arabic_normalized",
+        "translit",
+        "literal_fr"
+      ],
+      "properties": {
+        "arabic_raw_ocr": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "arabic_diplomatic": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "null tant que non relu à la main"
+        },
+        "arabic_normalized": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "translit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "literal_fr": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pedagogical_fr": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "pages": {
+      "type": "object",
+      "required": [
+        "pdf_start",
+        "pdf_end",
+        "printed_start",
+        "printed_end",
+        "pdf_page_basis"
+      ],
+      "properties": {
+        "pdf_start": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "pdf_end": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "printed_start": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "printed_end": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "pdf_page_basis": {
+          "enum": [
+            "viewer_1based",
+            "index_0based"
+          ]
+        }
+      }
+    },
+    "theme_fr": {
+      "type": "string"
+    },
+    "textual_basis": {
+      "enum": [
+        "explicit",
+        "inferred",
+        "uncertain"
+      ]
+    },
+    "editorial_role": {
+      "enum": [
+        "canonical",
+        "reconstructed"
+      ]
+    },
+    "pedagogical_role": {
+      "enum": [
+        "core",
+        "optional",
+        "none"
+      ]
+    },
+    "title_verification": {
+      "type": "object",
+      "required": [
+        "source_capture",
+        "toc_heading_matched",
+        "body_heading_matched",
+        "arabic_transcription_verified"
+      ],
+      "properties": {
+        "source_capture": {
+          "enum": [
+            "ocr",
+            "manual",
+            "missing_ocr"
+          ]
+        },
+        "toc_heading_matched": {
+          "type": "boolean"
+        },
+        "body_heading_matched": {
+          "type": "boolean"
+        },
+        "arabic_transcription_verified": {
+          "type": "boolean"
+        }
+      }
+    },
+    "section_verification": {
+      "type": "object",
+      "required": [
+        "next_section_located",
+        "section_bounds_verified",
+        "intermediate_pages_checked"
+      ],
+      "properties": {
+        "next_section_located": {
+          "type": "boolean"
+        },
+        "section_bounds_verified": {
+          "type": "boolean"
+        },
+        "intermediate_pages_checked": {
+          "type": "boolean"
+        }
+      }
+    },
+    "certainty": {
+      "type": "object",
+      "required": [
+        "hierarchy",
+        "pdf_page",
+        "printed_page"
+      ],
+      "properties": {
+        "hierarchy": {
+          "enum": [
+            "verified",
+            "probable",
+            "unverified"
+          ]
+        },
+        "pdf_page": {
+          "enum": [
+            "verified",
+            "probable",
+            "unverified"
+          ]
+        },
+        "printed_page": {
+          "enum": [
+            "verified",
+            "probable",
+            "unverified"
+          ]
+        }
+      }
+    },
+    "record_status": {
+      "enum": [
+        "extracted",
+        "located",
+        "text_verified",
+        "concept_annotated",
+        "human_validated"
+      ]
+    },
+    "concepts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "concept_id",
+          "relation",
+          "relation_status",
+          "concept_association",
+          "evidence"
+        ],
+        "properties": {
+          "concept_id": {
+            "type": "string"
+          },
+          "relation": {
+            "enum": [
+              "traite_explicitement",
+              "etablit_demontre",
+              "prepare_mobilise"
+            ]
+          },
+          "relation_status": {
+            "enum": [
+              "confirmed",
+              "to_confirm"
+            ]
+          },
+          "concept_association": {
+            "enum": [
+              "verified",
+              "probable",
+              "tentative"
+            ]
+          },
+          "evidence": {
+            "type": "object",
+            "required": [
+              "type",
+              "ref"
+            ],
+            "properties": {
+              "type": {
+                "enum": [
+                  "title",
+                  "body_passage",
+                  "page_range",
+                  "title+body"
+                ]
+              },
+              "ref": {
+                "type": "string"
+              },
+              "note": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "annotation": {
+      "type": "object",
+      "required": [
+        "author_type",
+        "agent",
+        "date",
+        "source_file",
+        "human_review",
+        "source_file_sha256"
+      ],
+      "properties": {
+        "author_type": {
+          "enum": [
+            "ai",
+            "human"
+          ]
+        },
+        "agent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "source_file": {
+          "type": "string"
+        },
+        "source_file_md5": {
+          "type": "string"
+        },
+        "human_review": {
+          "type": "boolean"
+        },
+        "source_file_sha256": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6707 @@
+{
+  "_doc": "Volume 4 — structure canonique (fihris, parseur à pile). extracted, sans concepts.",
+  "volume": 4,
+  "schema_version": "v3",
+  "source_pdf": "…volume arabe 4.pdf",
+  "nodes": [
+    {
+      "id": "v4-fann1",
+      "type": "fann",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الفن الأول في مقولة الكم وإثبات وجودها ووجود أقسامها وإثبات عرضيتها وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الفن الاول في مقوله الكم واثبات وجودها ووجود اقسامها واثبات عرضيتها وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تعديد الخواص التي بها يمكن معرفة ماهية الكم المطلق وهي ثلاث",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تعديد الخواص التي بها يمكن معرفه ماهيه الكم المطلق وهي ثلاث",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الفرق بين المقدار والجسمية وذلك من ستة أوجه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الفرق بين المقدار والجسميه وذلك من سته اوجه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تقسم الكم إلى المتصل والمنفصل",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تقسم الكم الي المتصل والمنفصل",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تقسيم آخر للكم وهو التقسيم إلى ذي وضع وغير ذي وضع",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تقسيم اخر للكم وهو التقسيم الي ذي وضع وغير ذي وضع",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "فيما ليس بكم بالذات و إنما هو بالعرض وهو على وجوه أربعة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "فيما ليس بكم بالذات و انما هو بالعرض وهو علي وجوه اربعه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الكم لا ضد له أما المنفصل فلوجوه ثلاثة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الكم لا ضد له اما المنفصل فلوجوه ثلاثه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f8",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 8,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في إثبات تناهي الأبعاد و عليه براهين كثيرة نذكر منها ثلاثة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في اثبات تناهي الابعاد و عليه براهين كثيره نذكر منها ثلاثه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f9",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 9,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في بقية أحكام اللانهاية وهي خمسة أبحاث",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في بقيه احكام اللانهايه وهي خمسه ابحاث",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f10",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 10,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن المقادير هل يمكن تجردها عن المادة وفي أحكام أخرى بين الثلاثه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان المقادير هل يمكن تجردها عن الماده وفي احكام اخري بين الثلاثه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f11",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 11,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في مباحث أخرى متعلقة بالمقادير",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في مباحث اخري متعلقه بالمقادير",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f12",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 12,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في المكان وإنيته",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في المكان وانيته",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f13",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 13,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تحقيق ماهية المكان",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تحقيق ماهيه المكان",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f14",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 14,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الرد على القائلين بالخلاء وهم طائفتان",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الرد علي القائلين بالخلاء وهم طائفتان",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f15",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 15,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ذكر أمارات استبصارية تدل على بطلان الخلاء",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ذكر امارات استبصاريه تدل علي بطلان الخلاء",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f16",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 16,
+        "maslak": null,
+        "marhala": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الخلاء لو ثبت لم يكن فيه قوة جاذبة ولا دافعة للأجسام",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الخلاء لو ثبت لم يكن فيه قوه جاذبه ولا دافعه للاجسام",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2",
+      "type": "fann",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الفن الثاني في مقولة الكيف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الفن الثاني في مقوله الكيف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1",
+      "type": "qism",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "القسم الأول في الكيفيات المحسوسة وفيه خمسة أبواب",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "القسم الاول في الكيفيات المحسوسه وفيه خمسه ابواب",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab1",
+      "type": "bab",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 1,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الباب الأول في أحكام كلية لهذا القسم وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الباب الاول في احكام كليه لهذا القسم وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab1-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 1,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في خاصيته وفي تقسيمه بقسميه وسبب التسمية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في خاصيته وفي تقسيمه بقسميه وسبب التسميه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab1-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 1,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الرد على القول بأن كيفيات الأجسام نفس أشكالها و بأنها نفس الأمزجة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الرد علي القول بان كيفيات الاجسام نفس اشكالها و بانها نفس الامزجه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2",
+      "type": "bab",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الباب الثاني في الكيفيات الملموسة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الباب الثاني في الكيفيات الملموسه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حد الحرارة والبرودة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حد الحراره والبروده",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ماهية الحرارة الغريزية وإنيتها",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ماهيه الحراره الغريزيه وانيتها",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ماهية الرطوبة واليبوسة وإنيتهما",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ماهيه الرطوبه واليبوسه وانيتهما",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في اللطافة و الكثافة واللزوجة والهشاشة والبلة والجفاف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في اللطافه و الكثافه واللزوجه والهشاشه والبله والجفاف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الثقيل والخفيف وفيه مباحث",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الثقيل والخفيف وفيه مباحث",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab2-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 2,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "فيما يظن دخوله في الكيفيات اللمسية وليس منها",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "فيما يظن دخوله في الكيفيات اللمسيه وليس منها",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab3",
+      "type": "bab",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 3,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الباب الثالث في الكيفيات المبصرة وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الباب الثالث في الكيفيات المبصره وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab3-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 3,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في إثبات الألوان",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في اثبات الالوان",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab3-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 3,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في النور المحسوس",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في النور المحسوس",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab3-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 3,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حقيقة النور و أقسامه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حقيقه النور و اقسامه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab3-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 3,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الفرق بين الضوء والنور والشعاع والبريق والظل والظلمة وفي أن الألوان إنما تحدث",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الفرق بين الضوء والنور والشعاع والبريق والظل والظلمه وفي ان الالوان انما تحدث",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab4",
+      "type": "bab",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 4,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الباب الرابع في الكيفيات المسموعة وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الباب الرابع في الكيفيات المسموعه وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab4-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 4,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في علة حدوث الصوت",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في عله حدوث الصوت",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab4-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 4,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في إثبات وجود الصوت في الخارج",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في اثبات وجود الصوت في الخارج",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab4-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 4,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في سبب ثقل الصوت وحدته و معنى الصداء و الطنين والحرف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في سبب ثقل الصوت وحدته و معني الصداء و الطنين والحرف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab4-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 4,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تقسيم الحروف إلى صامت ومصوت وإلى اني وزماني",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تقسيم الحروف الي صامت ومصوت والي اني وزماني",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab5",
+      "type": "bab",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 5,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الباب الخامس في الكيفية المذوقة والمشمومات وفي إثبات عرضيتهما وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الباب الخامس في الكيفيه المذوقه والمشمومات وفي اثبات عرضيتهما وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab5-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 5,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الطعوم الأجسام إما أن تكون عديمة الطعم أو ذوات طعوم",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الطعوم الاجسام اما ان تكون عديمه الطعم او ذوات طعوم",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab5-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 5,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الروائح المشمومة ليس لأنواع الروائح عندنا أسماء إلا من جهات ثلاثة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الروائح المشمومه ليس لانواع الروائح عندنا اسماء الا من جهات ثلاثه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism1-bab5-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 1,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": 5,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تحقيق أن اللين و الصلابة من أي جنس من أجناس الكيف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تحقيق ان اللين و الصلابه من اي جنس من اجناس الكيف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3",
+      "type": "qism",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "القسم الثالث في الكيفيات التي توجد في ذوات الأنفس",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "القسم الثالث في الكيفيات التي توجد في ذوات الانفس",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في القدرة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في القدره",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الإرادة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الاراده",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حد الخلق و أقسامه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حد الخلق و اقسامه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حقيقة الألم واللذة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حقيقه الالم واللذه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في إبطال القول بأن المؤلم الموجع في الجميع هو تفرق الاتصال",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ابطال القول بان المؤلم الموجع في الجميع هو تفرق الاتصال",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن المؤلم أي نوع من سوء المزاج",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان المؤلم اي نوع من سوء المزاج",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f7",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 7,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تفصيل اللذات و تفضيل بعضها على بعض",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تفصيل اللذات و تفضيل بعضها علي بعض",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f8",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 8,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تعقيب ما قاله الشيخ في لذة الحواس وحل ما يشكل فيه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تعقيب ما قاله الشيخ في لذه الحواس وحل ما يشكل فيه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f9",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 9,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الصحة والمرض وهما من الكيفيات النفسانية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الصحه والمرض وهما من الكيفيات النفسانيه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f10",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 10,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الواسطة بين الصحة والمرض",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الواسطه بين الصحه والمرض",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f11",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 11,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الفرح و الغم وغيرهما",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الفرح و الغم وغيرهما",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f12",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 12,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أسباب الفرح والغم",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في اسباب الفرح والغم",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f13",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 13,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ضعف القلب وقوته و الفرق بين الأول وبين التوحش وكذا بين الثاني وبين النشاط",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ضعف القلب وقوته و الفرق بين الاول وبين التوحش وكذا بين الثاني وبين النشاط",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f14",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 14,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في سبب عروض هذه العوارض البدنية لأجل تكيف النفس بتلك الكيفيات النفسانية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في سبب عروض هذه العوارض البدنيه لاجل تكيف النفس بتلك الكيفيات النفسانيه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism3-f15",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 15,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 3,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في مناسبة ما بين شيء من تلك الكيفيات النفسانية وبين الدم الذي هو حامل الروح الحامل",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في مناسبه ما بين شيء من تلك الكيفيات النفسانيه وبين الدم الذي هو حامل الروح الحامل",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4",
+      "type": "qism",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "القسم الرابع في الكيفيات المختصة بالكميات وفيه ثلاث مقالات",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "القسم الرابع في الكيفيات المختصه بالكميات وفيه ثلاث مقالات",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حقيقتهما",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حقيقتهما",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في معرفة الدائرة وإثبات وجودها",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في معرفه الدائره واثبات وجودها",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن المستقيم والمستدير يتخالفان نوعا و تحقيق أن الكيفية بأي معنى يكون فصلا للكمية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان المستقيم والمستدير يتخالفان نوعا و تحقيق ان الكيفيه باي معني يكون فصلا للكميه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن المستقيم والمستدير ليسا متضادين",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان المستقيم والمستدير ليسا متضادين",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "فيما قيل من منع النسبة بين المستقيم والمستدير من المساواة والمفاضلة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "فيما قيل من منع النسبه بين المستقيم والمستدير من المساواه والمفاضله",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2",
+      "type": "maqala",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المقالة الثانية في الشكل وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المقاله الثانيه في الشكل وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تعريفه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تعريفه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الهيئة المذكورة هل هي من الكيف أو من الوضع",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الهيئه المذكوره هل هي من الكيف او من الوضع",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حال الزاوية و أنها من أي مقولة هي وهو البحث الرابع",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حال الزاويه و انها من اي مقوله هي وهو البحث الرابع",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في احتجاج كل من الفريقين في أمر الزاوية أنها كم أو كيف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في احتجاج كل من الفريقين في امر الزاويه انها كم او كيف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala2-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في نفي الأشد والأضعف والتضاد في الأشكال",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في نفي الاشد والاضعف والتضاد في الاشكال",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala3",
+      "type": "maqala",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 3,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المقالة الثالثة في حال الخلقة وكيفيات الأعداد وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المقاله الثالثه في حال الخلقه وكيفيات الاعداد وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala3-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 3,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حال الخلقة وهو البحث الخامس",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حال الخلقه وهو البحث الخامس",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala3-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 3,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أنه هل يجوز تركيب في الأعراض من أجناس و فصول أو مادة وصورة عقليتين",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في انه هل يجوز تركيب في الاعراض من اجناس و فصول او ماده وصوره عقليتين",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann2-qism4-maqala3-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 2,
+        "qism": 4,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 3,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في خواص الأعداد و كيفياتها",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في خواص الاعداد و كيفياتها",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3",
+      "type": "fann",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الفن الثالث في بقية المقولات العرضية وفيه مقالات",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الفن الثالث في بقيه المقولات العرضيه وفيه مقالات",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ابتداء الكلام في المضاف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ابتداء الكلام في المضاف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تحقيق المضاف الحقيقي",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تحقيق المضاف الحقيقي",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في خواص طرفي الإضافة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في خواص طرفي الاضافه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تحصيل المعنى الذي هو نفس مقولة المضاف الذي هو أحد الأجناس العشرة العالية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تحصيل المعني الذي هو نفس مقوله المضاف الذي هو احد الاجناس العشره العاليه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الإضافة هل تكون موجودة في الخارج أم لا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الاضافه هل تكون موجوده في الخارج ام لا",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في نحو وجود المضاف في الخارج",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في نحو وجود المضاف في الخارج",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f7",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 7,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن تحصل كل من المتضايفين كتحصل الآخر إن كان جنسا فجنس و إن نوعا فنوع و إن",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان تحصل كل من المتضايفين كتحصل الاخر ان كان جنسا فجنس و ان نوعا فنوع و ان",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f8",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 8,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تقسيم المضاف من وجوه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تقسيم المضاف من وجوه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f9",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 9,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن المضاف هل يقبل التضاد والأشد و الأضعف أم لا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان المضاف هل يقبل التضاد والاشد و الاضعف ام لا",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-f10",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 10,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الكلي والجزئي والذاتي والعرضي",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الكلي والجزئي والذاتي والعرضي",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2",
+      "type": "maqala",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المقالة الثانية في بقية المقولات وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المقاله الثانيه في بقيه المقولات وفيه فصول",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حقيقة الأين",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حقيقه الاين",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تقسيم الأين",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تقسيم الاين",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تتمة أحوال الآين",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تتمه احوال الاين",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في حقيقة متى و أنواعه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في حقيقه متي و انواعه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الوضع",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الوضع",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في الجدة",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الجده",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f7",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 7,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في مقولتي أن يفعل و أن ينفعل",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في مقولتي ان يفعل و ان ينفعل",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann3-maqala2-f8",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 8,
+        "maslak": null,
+        "marhala": null,
+        "fann": 3,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": 2,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في دفع ما أورد على موجوديتهما",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في دفع ما اورد علي موجوديتهما",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4",
+      "type": "fann",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": null,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "الفن الرابع في البحث عن أحكام الجواهر و أقسامها الأولية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "الفن الرابع في البحث عن احكام الجواهر و اقسامها الاوليه",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f1",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 1,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تحقيق ماهيتهما",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تحقيق ماهيتهما",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f2",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 2,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في تعريف العرض",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في تعريف العرض",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f3",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 3,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في رسم الجوهر وهو الموجود لا في موضوع",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في رسم الجوهر وهو الموجود لا في موضوع",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f4",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 4,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن حمل معنى الجوهر على ما تحته حمل الجنس أم لا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان حمل معني الجوهر علي ما تحته حمل الجنس ام لا",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f5",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 5,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في كون بعض الجواهر أول و أولى من بعض",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في كون بعض الجواهر اول و اولي من بعض",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f6",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 6,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في ذكر خواص الجوهر",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ذكر خواص الجوهر",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann4-f7",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "fasl": 7,
+        "maslak": null,
+        "marhala": null,
+        "fann": 4,
+        "qism": null,
+        "mawqif": null,
+        "manhaj": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null
+      },
+      "title": {
+        "arabic_raw_ocr": "في استحالة أن يكون موجود واحد جوهراو عرضا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في استحاله ان يكون موجود واحد جوهراو عرضا",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      }
+    },
+    {
+      "id": "v4-fann1-f7",
+      "type": "fasl",
+      "voyage": 2,
+      "address": {
+        "volume": 4,
+        "safar": 2,
+        "muqaddima": false,
+        "maslak": null,
+        "marhala": null,
+        "manhaj": null,
+        "fann": 1,
+        "qism": null,
+        "mawqif": null,
+        "maqala": null,
+        "bab": null,
+        "taraf": null,
+        "fasl": 7
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الكم لا يقبل الاشتداد والتضعف",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الكم لا يقبل الاشتداد والتضعف",
+        "translit": null,
+        "literal_fr": null,
+        "pedagogical_fr": null
+      },
+      "title_recovery_needed": true,
+      "pages": {
+        "pdf_start": 21,
+        "pdf_end": null,
+        "printed_start": 20,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "manual",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "probable",
+        "pdf_page": "verified",
+        "printed_page": "verified"
+      },
+      "record_status": "text_verified",
+      "concepts": [],
+      "note": "Numéro attesté ; titre OCR manquant (saut OCR) ; à contrôler au corps.",
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 4.pdf",
+        "source_file_sha256": "e3b003c340a29b28261900da82c8a06d94c08aa10e9535ff5c36e7603291b38f",
+        "human_review": false
+      },
+      "capture_method": "visual_image_read_ai",
+      "verification_note": "Lecture visuelle image PDF p.21 (impr.20) ; en-tête rouge « فصل (7) » lisible, entre f6 « في أن الكم لا ضد له » (p.20/impr.18) et f8 « في إثبات تناهي الأبعاد ». confirmed_fasl."
+    }
+  ]
+}

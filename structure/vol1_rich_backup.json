@@ -1,0 +1,1441 @@
+{
+  "_doc": "Volume 1 — référentiel canonique JSON (source). Le .md est une vue. Schéma : voir README_schema.md. CHARPENTE PARTIELLE : ossature + Manhaj 1 (9 fuṣūl). Manhaj 2-3 et marâhil 2-3 : à ajouter (un nœud par faṣl). Prototype technique, non figé public.",
+  "volume": 1,
+  "source_pdf": "Les Quatre Voyages (9 vol.)/…volume arabe 1.pdf",
+  "fihris": {
+    "emplacement": "en tête",
+    "pages_pdf": [
+      2,
+      3
+    ],
+    "capte_pages_imprimees": false
+  },
+  "arabic_source_method_global": "ocr_unverified",
+  "nodes": [
+    {
+      "id": "v1-s1",
+      "type": "safar",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": null,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "السفر الأول وهو الذي من الخلق إلى الحق في النظر إلى طبيعة الوجود وعوارضه الذاتية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "السفر الاول وهو الذي من الخلق الى الحق في النظر الى طبيعه الوجود وعوارضه الذاتيه",
+        "translit": "al-safar al-awwal … min al-khalq ilā l-ḥaqq, fī l-naẓar ilā ṭabīʿat al-wujūd wa-ʿawāriḍihi l-dhātiyya",
+        "literal_fr": "Le premier voyage, de la création vers le Réel, dans l'examen de la nature de l'existence et de ses accidents essentiels",
+        "pedagogical_fr": "Voyage I — Comprendre l'être"
+      },
+      "pages": {
+        "pdf_start": 2,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Ouverture du premier voyage : la nature de l'existence et ses propriétés essentielles.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "verified",
+        "printed_page": "unverified"
+      },
+      "record_status": "located",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-s1-mk1",
+      "type": "maslak",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": 1,
+        "muqaddima": false,
+        "marhala": null,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المسلك الأول في المعارف التي يحتاج إليها الإنسان في جميع العلوم",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المسلك الاول في المعارف التي يحتاج اليها الانسان في جميع العلوم",
+        "translit": "al-maslak al-awwal fī l-maʿārif allatī yaḥtāju ilayhā l-insān fī jamīʿ al-ʿulūm",
+        "literal_fr": "Première voie : les connaissances requises pour toutes les sciences",
+        "pedagogical_fr": "Les prérequis de toute philosophie"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Cadre : ce qu'il faut savoir avant d'entrer dans la métaphysique.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "extracted",
+      "concepts": [],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-s1-mk1-muq",
+      "type": "muqaddima",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": 1,
+        "muqaddima": true,
+        "marhala": null,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المقدمة في تعريف الفلسفة وتقسيمها الأولي وغايتها وشرفها",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المقدمه في تعريف الفلسفه وتقسيمها الاولي وغايتها وشرفها",
+        "translit": "al-muqaddima fī taʿrīf al-falsafa wa-taqsīmihā l-awwalī wa-ghāyatihā wa-sharafihā",
+        "literal_fr": "Introduction : définition de la philosophie, sa division première, sa finalité et sa dignité",
+        "pedagogical_fr": "Qu'est-ce que la philosophie ?"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Définition, finalité et dignité de la philosophie.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "falsafa",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre : تعريف الفلسفة",
+            "note": "le chapitre définit la philosophie"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1",
+      "type": "marhala",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المرحلة الأولى في الوجود وأقسامه الأولية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المرحله الاولى في الوجود واقسامه الاوليه",
+        "translit": "al-marḥala al-ūlā fī l-wujūd wa-aqsāmihi l-awwaliyya",
+        "literal_fr": "Première étape : l'existence et ses divisions premières",
+        "pedagogical_fr": "L'existence et ses premières divisions"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Grande étape sur l'existence : sa réalité, ses degrés, ses modalités, l'existence mentale.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre : في الوجود وأقسامه",
+            "note": "grande étape sur l'existence"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1",
+      "type": "manhaj",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المنهج الأول في أحوال نفس الوجود",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المنهج الاول في احوال نفس الوجود",
+        "translit": "al-manhaj al-awwal fī aḥwāl nafs al-wujūd",
+        "literal_fr": "Première méthode : les états de l'existence même",
+        "pedagogical_fr": "Ce qu'est l'existence en elle-même"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "9 fuṣūl sur la réalité de l'existence.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre : أحوال نفس الوجود",
+            "note": "les états de l'existence même"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f1",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 1
+      },
+      "title": {
+        "arabic_raw_ocr": "في موضوعيته للعلم الإلهي وأولية ارتسامه في النفس",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في موضوعيته للعلم الالهي واوليه ارتسامه في النفس",
+        "translit": "fī mawḍūʿiyyatihi li-l-ʿilm al-ilāhī wa-awwaliyyat irtisāmihi fī l-nafs",
+        "literal_fr": "Que l'existence est le sujet de la métaphysique et le premier à s'imprimer dans l'esprit",
+        "pedagogical_fr": "L'existence, sujet de la métaphysique"
+      },
+      "pages": {
+        "pdf_start": 22,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "L'existence comme objet premier de la science divine ; sa self-évidence.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "probable",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f1",
+            "note": "l'existence comme sujet de la métaphysique"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f2",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 2
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن مفهوم الوجود مشترك محمول على ما تحته حمل التشكيك لا حمل التواطؤ",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان مفهوم الوجود مشترك محمول على ما تحته حمل التشكيك لا حمل التواطؤ",
+        "translit": "fī anna mafhūm al-wujūd mushtarak … ḥaml al-tashkīk lā ḥaml al-tawāṭuʾ",
+        "literal_fr": "Que le concept d'existence est commun, prédiqué de ses inférieurs par gradation, non par univocité",
+        "pedagogical_fr": "L'existence se dit par degrés (au niveau du concept)"
+      },
+      "pages": {
+        "pdf_start": 23,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Le concept d'existence : commun, dit par tashkīk et non de façon univoque.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "probable",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "tashkik",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f2 : … حمل التشكيك لا حمل التواطؤ",
+            "note": "le titre lui-même porte sur le tashkīk du concept d'existence"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f3",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 3
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الوجود …",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الوجود",
+        "translit": "fī anna l-wujūd …",
+        "literal_fr": "Que l'existence … (titre complet à relire)",
+        "pedagogical_fr": null
+      },
+      "pages": {
+        "pdf_start": 24,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "(à préciser — chapitre confirmé au corps p.24, titre complet à relire.)",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "none",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": false,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "verified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "tentative",
+          "evidence": {
+            "type": "body_passage",
+            "ref": "corps p.24 : « فصل (3) في أن الوجود »",
+            "note": "titre partiel ; à compléter"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "note": "⚠ Sauté par l'OCR du fihris ; RETROUVÉ au corps p.24. Illustre pourquoi le contrôle-corps est nécessaire."
+    },
+    {
+      "id": "v1-m1-mn1-f4",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 4
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن للوجود حقيقة عينية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان للوجود حقيقه عينيه",
+        "translit": "fī anna li-l-wujūd ḥaqīqa ʿayniyya",
+        "literal_fr": "Que l'existence a une réalité concrète (extramentale)",
+        "pedagogical_fr": "La réalité objective de l'existence"
+      },
+      "pages": {
+        "pdf_start": 26,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "L'existence n'est pas qu'un concept : elle a une réalité concrète, hors de l'esprit.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "probable",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "asalat-al-wujud",
+          "relation": "etablit_demontre",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f4 : للوجود حقيقة عينية",
+            "note": "établit la réalité concrète de l'existence — thèse de la primauté ; NON présenté comme lieu exclusif"
+          }
+        },
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f4",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f5",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 5
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن تخصص الوجود بما ذا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان تخصص الوجود بما ذا",
+        "translit": "fī anna takhaṣṣuṣ al-wujūd bi-mādhā",
+        "literal_fr": "Par quoi l'existence se détermine (se spécifie)",
+        "pedagogical_fr": "Ce qui distingue une existence d'une autre : le degré"
+      },
+      "pages": {
+        "pdf_start": 27,
+        "pdf_end": null,
+        "printed_start": 44,
+        "printed_end": 45,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "La détermination de chaque existence par ses propres degrés (intensité/faiblesse, antériorité/postériorité).",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "verified",
+        "printed_page": "probable"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "tashkik",
+          "relation": "etablit_demontre",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title+body",
+            "ref": "titre f5 « تخصص الوجود بما ذا » ; corps p.27 (impr. 44-45) : « بمرتبة من التقدم والتأخر والشدة والضعف »",
+            "note": "établit que la détermination se fait par degrés d'intensité — cœur du tashkīk"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f6",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 6
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن الوجودات هويات بسيطة وأن حقيقة الوجود ليست معنى جنسيا ولا نوعيا ولا كليا مطلقا",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان الوجودات هويات بسيطه وان حقيقه الوجود ليست معنى جنسيا ولا نوعيا ولا كليا مطلقا",
+        "translit": "fī anna l-wujūdāt huwiyyāt basīṭa wa-anna ḥaqīqat al-wujūd laysat maʿnan jinsiyyan …",
+        "literal_fr": "Que les existences sont des identités simples et que la réalité de l'existence n'est ni genre ni espèce ni universel",
+        "pedagogical_fr": "L'existence est simple, non un concept générique"
+      },
+      "pages": {
+        "pdf_start": 30,
+        "pdf_end": null,
+        "printed_start": 49,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Simplicité des existences ; au voisinage : le récit du revirement de Ṣadrā vers la primauté.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": true,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "verified",
+        "printed_page": "probable"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "asalat-al-wujud",
+          "relation": "prepare_mobilise",
+          "relation_status": "to_confirm",
+          "concept_association": "tentative",
+          "evidence": {
+            "type": "page_range",
+            "ref": "corps p.30 (impr.49) : récit du revirement, au seuil du chapitre",
+            "note": "mobilise/annonce la primauté ; rattachement f5/f6 à trancher à la relecture"
+          }
+        },
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f6",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "note": "Le récit autobiographique (« الوجودات هي الحقائق المتأصلة… ما شمّت رائحة الوجود ») est corps p.30/impr.49, au seuil f5→f6. Rattachement précis à relire."
+    },
+    {
+      "id": "v1-m1-mn1-f7",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 7
+      },
+      "title": {
+        "arabic_raw_ocr": "في أن حقيقة الوجود لا سبب لها بوجه من الوجوه",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في ان حقيقه الوجود لا سبب لها بوجه من الوجوه",
+        "translit": "fī anna ḥaqīqat al-wujūd lā sabab lahā bi-wajh min al-wujūh",
+        "literal_fr": "Que la réalité de l'existence n'a de cause en aucune façon",
+        "pedagogical_fr": "L'existence est sans cause"
+      },
+      "pages": {
+        "pdf_start": 31,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "La réalité de l'existence ne dépend d'aucune cause.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "probable",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f7",
+            "note": null
+          }
+        },
+        {
+          "concept_id": "wajib-al-wujud",
+          "relation": "prepare_mobilise",
+          "relation_status": "to_confirm",
+          "concept_association": "tentative",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f7 (sans cause → prépare le nécessaire)",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f8",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 8
+      },
+      "title": {
+        "arabic_raw_ocr": "في مساوقة الوجود للشيئية",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في مساوقه الوجود للشيئيه",
+        "translit": "fī musāwaqat al-wujūd li-l-shayʾiyya",
+        "literal_fr": "La coextension de l'existence et de la choséité",
+        "pedagogical_fr": "Exister et être une chose"
+      },
+      "pages": {
+        "pdf_start": 32,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Rapport entre l'existence et le fait d'être une chose (shayʾ).",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "verified",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f8",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn1-f9",
+      "type": "fasl",
+      "voyage": null,
+      "address": {
+        "volume": 1,
+        "safar": null,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 1,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": 9
+      },
+      "title": {
+        "arabic_raw_ocr": "في الوجود الرابطي",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "في الوجود الرابطي",
+        "translit": "fī l-wujūd al-rābiṭī",
+        "literal_fr": "L'existence relationnelle (copulative)",
+        "pedagogical_fr": "L'existence-lien"
+      },
+      "pages": {
+        "pdf_start": 33,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "L'existence copulative/relationnelle — pont vers la dépendance de l'effet (cause).",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud-rabit",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre f9 : الوجود الرابطي",
+            "note": "chapitre propre à l'existence relationnelle"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      }
+    },
+    {
+      "id": "v1-m1-mn2",
+      "type": "manhaj",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 2,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المنهج الثاني في أصول الكيفيات وعناصر العقود وخواص كل منها وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المنهج الثاني في اصول الكيفيات وعناصر العقود وخواص كل منها وفيه فصول",
+        "translit": "al-manhaj al-thānī fī uṣūl al-kayfiyyāt … (al-wujūb wa-l-imkān)",
+        "literal_fr": "Deuxième méthode : les modalités (nécessité, possibilité, impossibilité)",
+        "pedagogical_fr": "Nécessaire, possible, impossible"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "22 fuṣūl sur les modalités : l'Être nécessaire, le possible, la cause du besoin d'une cause, essence≠existence dans l'esprit / unies dans l'extérieur (f.21-22).",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "core",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wajib-al-wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "fuṣūl du manhaj 2 (définitions wujūb/imkān)",
+            "note": null
+          }
+        },
+        {
+          "concept_id": "imkan",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "manhaj 2",
+            "note": null
+          }
+        },
+        {
+          "concept_id": "mahiyya",
+          "relation": "prepare_mobilise",
+          "relation_status": "to_confirm",
+          "concept_association": "tentative",
+          "evidence": {
+            "type": "title",
+            "ref": "f.21-22 : existence/essence dans le possible",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "fusul_count": 22,
+      "fusul_detail": "à normaliser (un nœud par faṣl)"
+    },
+    {
+      "id": "v1-m1-mn3",
+      "type": "manhaj",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 1,
+        "manhaj": 3,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المنهج الثالث في الإشارة إلى نشأة أخرى للوجود غير هذا المشهود وما ينوط به وفيه فصول",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المنهج الثالث في الاشاره الى نشاه اخرى للوجود غير هذا المشهود وما ينوط به وفيه فصول",
+        "translit": "al-manhaj al-thālith fī l-ishāra ilā nashʾa ukhrā li-l-wujūd … (al-wujūd al-dhihnī)",
+        "literal_fr": "Troisième méthode : un autre mode d'existence — l'existence mentale",
+        "pedagogical_fr": "L'existence dans l'esprit"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "L'existence mentale (al-wujūd al-dhihnī) et l'apparition « ombreuse » ; preuves ; objections.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud-dhihni",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre manhaj 3 : نشأة أخرى للوجود",
+            "note": "l'existence mentale"
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "fusul_detail": "à normaliser (un nœud par faṣl)"
+    },
+    {
+      "id": "v1-m2",
+      "type": "marhala",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 2,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المرحلة الثانية في تتمة أحكام الوجود",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المرحله الثانيه في تتمه احكام الوجود",
+        "translit": "al-marḥala al-thāniya fī tatimmat aḥkām al-wujūd",
+        "literal_fr": "Deuxième étape : compléments sur les propriétés de l'existence",
+        "pedagogical_fr": "Compléments sur l'existence"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Suite des propriétés de l'existence.",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "wujud",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre marhala 2",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "fusul_detail": "à normaliser"
+    },
+    {
+      "id": "v1-m3",
+      "type": "marhala",
+      "voyage": 1,
+      "address": {
+        "volume": 1,
+        "safar": 1,
+        "maslak": null,
+        "muqaddima": false,
+        "marhala": 3,
+        "manhaj": null,
+        "fann": null,
+        "maqala": null,
+        "mawqif": null,
+        "bab": null,
+        "fasl": null
+      },
+      "title": {
+        "arabic_raw_ocr": "المرحلة الثالثة في تحقيق الجعل",
+        "arabic_diplomatic": null,
+        "arabic_normalized": "المرحله الثالثه في تحقيق الجعل",
+        "translit": "al-marḥala al-thālitha fī taḥqīq al-jaʿl",
+        "literal_fr": "Troisième étape : la réalisation de l'instauration (jaʿl)",
+        "pedagogical_fr": "Ce que « faire exister » veut dire"
+      },
+      "pages": {
+        "pdf_start": null,
+        "pdf_end": null,
+        "printed_start": null,
+        "printed_end": null,
+        "pdf_page_basis": "viewer_1based"
+      },
+      "theme_fr": "Le jaʿl : sur quoi porte « faire exister » (l'existence, non l'essence).",
+      "textual_basis": "explicit",
+      "editorial_role": "canonical",
+      "pedagogical_role": "optional",
+      "title_verification": {
+        "source_capture": "ocr",
+        "toc_heading_matched": true,
+        "body_heading_matched": false,
+        "arabic_transcription_verified": false
+      },
+      "section_verification": {
+        "next_section_located": false,
+        "section_bounds_verified": false,
+        "intermediate_pages_checked": false
+      },
+      "certainty": {
+        "hierarchy": "verified",
+        "pdf_page": "unverified",
+        "printed_page": "unverified"
+      },
+      "record_status": "concept_annotated",
+      "concepts": [
+        {
+          "concept_id": "jaol",
+          "relation": "traite_explicitement",
+          "relation_status": "to_confirm",
+          "concept_association": "probable",
+          "evidence": {
+            "type": "title",
+            "ref": "titre marhala 3 : تحقيق الجعل",
+            "note": null
+          }
+        },
+        {
+          "concept_id": "asalat-al-wujud",
+          "relation": "prepare_mobilise",
+          "relation_status": "to_confirm",
+          "concept_association": "tentative",
+          "evidence": {
+            "type": "title",
+            "ref": "le jaʿl ne porte que sur l'existence",
+            "note": null
+          }
+        }
+      ],
+      "annotation": {
+        "author_type": "ai",
+        "agent": "claude-mulla-sadra",
+        "date": "2026-07-23",
+        "source_file": "…volume arabe 1.pdf",
+        "source_file_md5": "78273f84afd20372c0826a6a5eec6358",
+        "human_review": false,
+        "source_file_sha256": "eb27413b2c18857be9fa80d4ecd81a1c5f3d30d4ee2cb3141b7eddea8af5c633"
+      },
+      "fusul_detail": "à normaliser"
+    }
+  ],
+  "incertitudes": [
+    "arabic_source_method = ocr_unverified partout : titres non encore relus à la main → ne pas présenter comme définitifs.",
+    "Pages imprimées captées seulement pour f5 (44-45) et f6 (49) ; reste unverified.",
+    "verification : aucun next_section_located/section_bounds_verified encore true → 2e passe (transitions).",
+    "Adresses conceptuelles provisoires (justifications à confidence probable/tentative) jusqu'à la charpente des 9 volumes.",
+    "Charpente PARTIELLE : Manhaj 2 (22 fuṣūl), Manhaj 3, marâhil 2-3 restent à éclater en un nœud par faṣl."
+  ],
+  "schema_version": "v3"
+}

@@ -1,0 +1,45 @@
+{
+  "_doc": "Table de redirection Vol5 — correction des faux manhaj de fann4 (phase 2, étape 1).",
+  "redirects": [
+    {
+      "old": "v5-fann4-manhaj3",
+      "new": "v5-fann4-f4",
+      "reason": "faux manhaj issu du titre du faṣl 4 de fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4",
+      "new": "v5-fann4-f5",
+      "reason": "faux manhaj issu du titre du faṣl 5 de fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f6",
+      "new": "v5-fann4-f6",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f7",
+      "new": "v5-fann4-f7",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f8",
+      "new": "v5-fann4-f8",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f9",
+      "new": "v5-fann4-f9",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f10",
+      "new": "v5-fann4-f10",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    },
+    {
+      "old": "v5-fann4-manhaj4-f11",
+      "new": "v5-fann4-f11",
+      "reason": "faṣl rattaché à tort sous faux manhaj4 → rattaché à fann4"
+    }
+  ]
+}
