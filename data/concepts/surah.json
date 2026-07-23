@@ -1,0 +1,31 @@
+{
+  "id": "surah",
+  "ar": "الصورة",
+  "translit": "al-ṣūra",
+  "fr": "Forme",
+  "definition_courte": "Principe d'actualisation et de détermination d'une réalité matérielle.",
+  "definition_longue": "La forme actualise la matière et fait qu'un corps appartient à une espèce déterminée. Dans la dynamique sadrienne, les formes naturelles ne sont pas nécessairement statiques : elles s'inscrivent dans un devenir substantiel.",
+  "prerequis": [
+    "madda",
+    "fil"
+  ],
+  "concepts_lies": [
+    "mahiyya",
+    "jism",
+    "nafs",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "En quoi la forme diffère-t-elle de l'essence ?",
+    "Pourquoi la forme est-elle un acte relativement à la matière ?",
+    "Une forme substantielle peut-elle se transformer ?"
+  ],
+  "references": [
+    {
+      "volume": 5,
+      "fann": 3,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

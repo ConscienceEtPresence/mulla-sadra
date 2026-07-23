@@ -1,0 +1,27 @@
+{
+  "id": "huduth",
+  "ar": "الحدوث",
+  "translit": "al-ḥudūth",
+  "fr": "Adventicité",
+  "definition_courte": "Caractère de ce qui reçoit l'existence après ne pas l'avoir possédée par soi.",
+  "definition_longue": "L'adventicité exprime la dépendance ontologique d'une réalité qui ne possède pas en elle-même la raison suffisante de son existence. Elle peut être analysée selon le temps, l'essence ou le renouvellement continu de l'être.",
+  "concepts_lies": [
+    "qidam",
+    "imkan",
+    "al-illa",
+    "fayd"
+  ],
+  "questions": [
+    "Une chose peut-elle être éternelle dans le temps tout en dépendant d'une cause ?",
+    "Quelle différence entre adventicité temporelle et adventicité essentielle ?",
+    "Pourquoi l'adventicité exprime-t-elle une dépendance ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 9,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

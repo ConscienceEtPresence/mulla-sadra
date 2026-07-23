@@ -1,0 +1,30 @@
+{
+  "id": "madda",
+  "ar": "المادة",
+  "translit": "al-mādda",
+  "fr": "Matière",
+  "definition_courte": "Principe de réceptivité et de potentialité dans les réalités corporelles.",
+  "definition_longue": "La matière est ce qui reçoit les formes et rend possibles les transformations corporelles. Elle ne constitue pas à elle seule un être achevé, mais le principe potentiel d'une réalité composée.",
+  "prerequis": [
+    "quwwa",
+    "surah"
+  ],
+  "concepts_lies": [
+    "jism",
+    "jawhar",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "La matière peut-elle exister sans forme ?",
+    "Pourquoi est-elle liée à la puissance ?",
+    "Comment participe-t-elle au mouvement substantiel ?"
+  ],
+  "references": [
+    {
+      "volume": 5,
+      "fann": 3,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

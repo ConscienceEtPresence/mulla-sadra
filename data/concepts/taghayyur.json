@@ -1,0 +1,27 @@
+{
+  "id": "taghayyur",
+  "ar": "التغيّر",
+  "translit": "al-taghayyur",
+  "fr": "Changement",
+  "definition_courte": "Passage d'un état d'être à un autre.",
+  "definition_longue": "Le changement peut concerner les qualités, les quantités, les lieux ou, selon Mullā Ṣadrā, la substance elle-même. Il manifeste l'inachèvement d'une réalité encore engagée dans son actualisation.",
+  "concepts_lies": [
+    "haraka",
+    "haraka-jawhariyya",
+    "quwwa",
+    "fil"
+  ],
+  "questions": [
+    "Tout changement est-il un mouvement ?",
+    "Qu'est-ce qui demeure lorsqu'une chose change ?",
+    "Pourquoi le changement révèle-t-il une structure ontologique de puissance et d'acte ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 7,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "haraka",
+  "ar": "الحركة",
+  "translit": "al-ḥaraka",
+  "fr": "Mouvement",
+  "definition_courte": "Actualisation progressive de ce qui est en puissance.",
+  "definition_longue": "Le mouvement désigne le passage continu d'une puissance vers son actualisation. Mullā Ṣadrā étend cette dynamique au cœur même de la substance grâce à la doctrine du mouvement substantiel.",
+  "prerequis": [
+    "quwwa",
+    "fil"
+  ],
+  "concepts_lies": [
+    "zaman",
+    "haraka-jawhariyya",
+    "taghayyur"
+  ],
+  "questions": [
+    "Pourquoi le mouvement suppose-t-il puissance et acte ?",
+    "Le mouvement appartient-il uniquement aux accidents ?",
+    "Comment une réalité peut-elle changer continuellement tout en conservant une unité ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 7,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

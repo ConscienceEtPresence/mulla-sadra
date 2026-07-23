@@ -1,0 +1,31 @@
+{
+  "id": "tajaddud-al-khalq",
+  "ar": "تجدّد الخلق",
+  "translit": "tajaddud al-khalq",
+  "fr": "Renouvellement de la création",
+  "definition_courte": "Réception continuelle de l'existence par les réalités créées.",
+  "definition_longue": "La création ne doit pas être comprise uniquement comme un acte situé dans un passé lointain. Les êtres dépendants reçoivent continuellement leur existence selon un renouvellement ontologique permanent.",
+  "prerequis": [
+    "fayd",
+    "al-illa",
+    "al-malul"
+  ],
+  "concepts_lies": [
+    "haraka-jawhariyya",
+    "huduth",
+    "tajalli"
+  ],
+  "questions": [
+    "Pourquoi l'acte créateur doit-il être continu ?",
+    "Une créature pourrait-elle subsister indépendamment après avoir été créée ?",
+    "Quel rapport existe entre renouvellement de la création et mouvement substantiel ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 9,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

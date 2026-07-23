@@ -1,0 +1,29 @@
+{
+  "id": "zaman",
+  "ar": "الزمان",
+  "translit": "al-zamān",
+  "fr": "Temps",
+  "definition_courte": "Mesure du mouvement selon l'antérieur et le postérieur.",
+  "definition_longue": "Le temps accompagne le devenir des réalités corporelles. Il n'est pas une substance indépendante, mais l'ordre continu selon lequel les états du monde matériel se succèdent.",
+  "prerequis": [
+    "haraka",
+    "quwwa",
+    "fil"
+  ],
+  "concepts_lies": [
+    "dahr",
+    "sarmad",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "Le temps existe-t-il indépendamment du mouvement ?",
+    "Pourquoi le temps appartient-il principalement au monde corporel ?",
+    "Comment le mouvement substantiel renouvelle-t-il la compréhension du temps ?"
+  ],
+  "contresens": [
+    "Identifier le temps à une chose matérielle.",
+    "Le réduire à une simple mesure conventionnelle.",
+    "Confondre le temps avec l'éternité."
+  ],
+  "statut": "editorial"
+}

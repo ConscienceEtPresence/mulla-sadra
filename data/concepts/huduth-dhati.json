@@ -1,0 +1,31 @@
+{
+  "id": "huduth-dhati",
+  "ar": "الحدوث الذاتي",
+  "translit": "al-ḥudūth al-dhātī",
+  "fr": "Adventicité essentielle",
+  "definition_courte": "Dépendance d'une essence possible envers la cause qui lui donne l'existence.",
+  "definition_longue": "Une réalité est essentiellement adventice lorsque, considérée en elle-même, elle ne possède pas la nécessité d'exister. Même sans commencement temporel déterminé, elle demeure dépendante de sa cause.",
+  "prerequis": [
+    "imkan",
+    "al-illa",
+    "huduth"
+  ],
+  "concepts_lies": [
+    "huduth-zamani",
+    "wujub",
+    "al-malul"
+  ],
+  "questions": [
+    "Comment une chose peut-elle ne pas avoir de commencement temporel tout en étant créée ?",
+    "Pourquoi le possible demeure-t-il dépendant de sa cause ?",
+    "Quelle différence entre antériorité causale et antériorité temporelle ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 9,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

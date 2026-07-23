@@ -1,0 +1,29 @@
+{
+  "id": "huduth-zamani",
+  "ar": "الحدوث الزماني",
+  "translit": "al-ḥudūth al-zamānī",
+  "fr": "Adventicité temporelle",
+  "definition_courte": "Commencement d'une réalité dans le temps.",
+  "definition_longue": "Une réalité est temporellement adventice lorsqu'elle commence après une période où elle n'existait pas. Cette conception doit être distinguée de la dépendance ontologique qui ne se réduit pas à un commencement chronologique.",
+  "prerequis": [
+    "zaman",
+    "huduth"
+  ],
+  "concepts_lies": [
+    "huduth-dhati",
+    "qidam-zamani"
+  ],
+  "questions": [
+    "Le commencement temporel suffit-il à expliquer la création ?",
+    "Le temps lui-même peut-il commencer dans le temps ?",
+    "Pourquoi la dépendance causale ne se réduit-elle pas à l'antériorité chronologique ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 9,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

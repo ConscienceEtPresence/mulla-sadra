@@ -1,0 +1,22 @@
+{
+  "id": "dahr",
+  "ar": "الدهر",
+  "translit": "al-dahr",
+  "fr": "Durée supratemporelle",
+  "definition_courte": "Mode de durée correspondant à la saisie unifiée des réalités temporelles.",
+  "definition_longue": "Le dahr désigne un ordre supérieur au temps. Ce qui se déploie successivement dans le monde temporel peut y être considéré selon une totalité plus unifiée, sans succession comparable à celle des réalités corporelles.",
+  "prerequis": [
+    "zaman"
+  ],
+  "concepts_lies": [
+    "sarmad",
+    "alam-al-mithal",
+    "aql"
+  ],
+  "questions": [
+    "Comment une réalité peut-elle être supérieure au temps sans être absolument éternelle ?",
+    "Quelle différence entre temps, dahr et sarmad ?",
+    "Le dahr supprime-t-il la succession temporelle ou la contient-il selon un mode supérieur ?"
+  ],
+  "statut": "editorial"
+}

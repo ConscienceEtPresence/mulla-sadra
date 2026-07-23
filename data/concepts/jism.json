@@ -1,0 +1,25 @@
+{
+  "id": "jism",
+  "ar": "الجسم",
+  "translit": "al-jism",
+  "fr": "Corps",
+  "definition_courte": "Substance étendue possédant des dimensions.",
+  "definition_longue": "Le corps appartient au monde matériel et se caractérise par l'étendue, la divisibilité et le changement. Il constitue l'un des premiers degrés de l'existence naturelle.",
+  "prerequis": [
+    "madda",
+    "surah",
+    "jawhar"
+  ],
+  "concepts_lies": [
+    "tabia",
+    "nafs",
+    "zaman",
+    "haraka"
+  ],
+  "questions": [
+    "Le corps est-il réductible à ses dimensions ?",
+    "Quelle relation unit le corps, la matière et la forme ?",
+    "Comment le corps participe-t-il au devenir de l'âme ?"
+  ],
+  "statut": "editorial"
+}

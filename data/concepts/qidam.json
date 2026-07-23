@@ -1,0 +1,26 @@
+{
+  "id": "qidam",
+  "ar": "القدم",
+  "translit": "al-qidam",
+  "fr": "Prééternité",
+  "definition_courte": "Absence de commencement selon un mode déterminé.",
+  "definition_longue": "La prééternité peut désigner l'absence de commencement temporel ou, au sens absolu, l'indépendance ontologique de la Réalité nécessaire. Ces significations doivent être soigneusement distinguées.",
+  "concepts_lies": [
+    "huduth",
+    "sarmad",
+    "wujub"
+  ],
+  "questions": [
+    "Toute réalité sans commencement temporel est-elle nécessaire ?",
+    "Quelle différence entre prééternité temporelle et prééternité essentielle ?",
+    "Pourquoi l'indépendance ontologique n'appartient-elle qu'à l'Être nécessaire ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 9,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

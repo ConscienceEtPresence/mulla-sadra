@@ -1,0 +1,24 @@
+{
+  "id": "sarmad",
+  "ar": "السرمد",
+  "translit": "al-sarmad",
+  "fr": "Éternité absolue",
+  "definition_courte": "Mode de présence sans commencement, fin ni succession.",
+  "definition_longue": "Le sarmad désigne l'éternité propre à la Réalité divine. Il ne s'agit pas d'un temps infiniment long, mais d'une absence absolue de succession et de changement.",
+  "prerequis": [
+    "zaman",
+    "dahr",
+    "al-haqq"
+  ],
+  "concepts_lies": [
+    "wujub",
+    "basit-al-haqiqa",
+    "qidam"
+  ],
+  "questions": [
+    "Pourquoi l'éternité n'est-elle pas un temps sans fin ?",
+    "Comment distinguer l'éternité divine de la durée des intelligibles ?",
+    "Pourquoi la succession implique-t-elle une forme d'imperfection ?"
+  ],
+  "statut": "editorial"
+}

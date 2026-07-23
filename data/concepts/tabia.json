@@ -1,0 +1,31 @@
+{
+  "id": "tabia",
+  "ar": "الطبيعة",
+  "translit": "al-ṭabīʿa",
+  "fr": "Nature",
+  "definition_courte": "Principe interne du mouvement et du repos dans les êtres corporels.",
+  "definition_longue": "La nature désigne le principe par lequel un être corporel agit et se transforme selon son organisation propre. Elle ne se réduit pas à une force extérieure appliquée à la matière.",
+  "prerequis": [
+    "jism",
+    "haraka"
+  ],
+  "concepts_lies": [
+    "nafs",
+    "surah",
+    "haraka-jawhariyya"
+  ],
+  "questions": [
+    "Pourquoi le mouvement naturel vient-il de l'intérieur de l'être ?",
+    "Quelle différence entre nature, âme et intellect ?",
+    "Comment la nature s'inscrit-elle dans le mouvement substantiel ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 7,
+      "fasl": 20,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}
