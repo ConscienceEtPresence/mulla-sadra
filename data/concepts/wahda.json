@@ -1,0 +1,28 @@
+{
+  "id": "wahda",
+  "ar": "الوحدة",
+  "translit": "al-waḥda",
+  "fr": "Unité",
+  "definition_courte": "Principe selon lequel un être est un et indivis selon son degré d'existence.",
+  "definition_longue": "L'unité n'est pas une propriété ajoutée à l'être. Plus une réalité possède une existence intense, plus son unité est profonde. L'unité accompagne donc l'existence elle-même.",
+  "prerequis": [
+    "wujud"
+  ],
+  "concepts_lies": [
+    "kathra",
+    "tashkik",
+    "basit-al-haqiqa"
+  ],
+  "questions": [
+    "Pourquoi tout être est-il un ?",
+    "Comment l'unité accompagne-t-elle l'existence ?"
+  ],
+  "references": [
+    {
+      "volume": 2,
+      "marhala": 5,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

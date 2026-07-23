@@ -1,0 +1,28 @@
+{
+  "id": "kathra",
+  "ar": "الكثرة",
+  "translit": "al-kathra",
+  "fr": "Multiplicité",
+  "definition_courte": "Diversité des êtres participant à une même réalité de l'existence.",
+  "definition_longue": "La multiplicité n'est pas l'opposé absolu de l'unité. Chez Mullā Ṣadrā, les êtres sont multiples parce que l'existence se manifeste selon des degrés différents.",
+  "prerequis": [
+    "wahda",
+    "tashkik"
+  ],
+  "concepts_lies": [
+    "wujud",
+    "mahiyya"
+  ],
+  "questions": [
+    "Pourquoi existe-t-il plusieurs êtres ?",
+    "Comment concilier unité et multiplicité ?"
+  ],
+  "references": [
+    {
+      "volume": 2,
+      "marhala": 5,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

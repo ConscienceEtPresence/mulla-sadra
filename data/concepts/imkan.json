@@ -1,0 +1,18 @@
+{
+  "id": "imkan",
+  "ar": "الإمكان",
+  "translit": "al-imkān",
+  "fr": "Possibilité",
+  "definition_courte": "Mode d'être de ce qui peut exister sans exister nécessairement.",
+  "definition_longue": "Le possible ne possède pas en lui-même la raison de son existence. Il dépend d'une cause pour passer à l'existence effective.",
+  "concepts_lies": [
+    "wujub",
+    "al-illa",
+    "al-malul"
+  ],
+  "questions": [
+    "Pourquoi le possible a-t-il besoin d'une cause ?",
+    "Qu'est-ce qui distingue le possible du nécessaire ?"
+  ],
+  "statut": "editorial"
+}

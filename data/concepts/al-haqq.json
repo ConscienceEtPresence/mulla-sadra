@@ -1,0 +1,30 @@
+{
+  "id": "al-haqq",
+  "ar": "الحق",
+  "translit": "al-Ḥaqq",
+  "fr": "Le Réel",
+  "definition_courte": "Nom désignant la Réalité absolue dont procèdent tous les degrés de l'être.",
+  "definition_longue": "Dans les Asfār, Dieu est le Réel absolu, l'Être nécessaire, source de toute existence. Les autres êtres ne possèdent leur réalité qu'en dépendance de Lui.",
+  "prerequis": [
+    "wujud",
+    "wujub",
+    "tashkik"
+  ],
+  "concepts_lies": [
+    "basit-al-haqiqa",
+    "al-illa"
+  ],
+  "questions": [
+    "Pourquoi Dieu est-il appelé le Réel ?",
+    "Quel rapport entre le Réel absolu et les êtres contingents ?"
+  ],
+  "references": [
+    {
+      "volume": 6,
+      "fann": 1,
+      "mawqif": 1,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

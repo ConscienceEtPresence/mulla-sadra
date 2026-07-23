@@ -1,0 +1,22 @@
+{
+  "id": "fayd",
+  "ar": "الفيض",
+  "translit": "al-fayḍ",
+  "fr": "Émanation",
+  "definition_courte": "Communication continue de l'existence depuis sa source première.",
+  "definition_longue": "L'émanation ne désigne pas un événement passé mais la dépendance permanente de tout être envers la Source de l'existence. Elle exprime la générosité ontologique du Réel.",
+  "prerequis": [
+    "al-haqq",
+    "al-illa",
+    "al-malul"
+  ],
+  "concepts_lies": [
+    "wujud",
+    "tashkik"
+  ],
+  "questions": [
+    "Pourquoi la création est-elle permanente ?",
+    "En quel sens tout être reçoit-il continuellement son existence ?"
+  ],
+  "statut": "editorial"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wujub",
+  "ar": "الوجوب",
+  "translit": "al-wujūb",
+  "fr": "Nécessité",
+  "definition_courte": "Mode d'être de ce qui ne peut pas ne pas être.",
+  "definition_longue": "La nécessité absolue appartient uniquement à l'Être nécessaire. Les autres êtres ne possèdent qu'une existence reçue et dépendante.",
+  "concepts_lies": [
+    "imkan",
+    "al-haqq"
+  ],
+  "questions": [
+    "Qu'est-ce qu'un être nécessaire ?",
+    "Pourquoi les créatures sont-elles contingentes ?"
+  ],
+  "statut": "editorial"
+}
