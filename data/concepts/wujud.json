@@ -1,0 +1,60 @@
+{
+  "_note": "Fiche CONCEPT (modèle). Identité + définition courte reprises de terminologie.json. Blocs doctrinaux à rédiger par Brahms : definitions.philosophique, importance, difficultes, erreurs_classiques, questions, comparaisons.",
+  "id": "wujud",
+  "type": "concept",
+  "statut": "ebauche",
+  "domaine": "wujud",
+  "voyage": 1,
+  "terme": {
+    "ar": "الوجود",
+    "ar_vocalise": "الْوُجُود",
+    "translit": "al-wujūd",
+    "fr": "l'existence, l'être",
+    "en": "existence, being",
+    "racine": "و ج د (w-j-d)",
+    "sens_litteral": "le fait de trouver, d'être trouvé ; la présence effective"
+  },
+  "definitions": {
+    "courte": {
+      "fr": "L'acte d'exister, ce par quoi il y a quelque chose plutôt que rien. Chez Ṣadrā, seule réalité fondamentale (aṣīl).",
+      "en": "The act of existing, that by which there is something rather than nothing. For Ṣadrā, the only fundamental reality (aṣīl)."
+    }
+  },
+  "premiere_apparition": [
+    {
+      "volume": 1,
+      "maslak": 1,
+      "marhala": 1
+    }
+  ],
+  "references": [
+    {
+      "volume": 1,
+      "maslak": 1,
+      "marhala": 1,
+      "importance": "fondamental",
+      "role": "marhala consacrée à l'existence",
+      "note": "al-marḥala al-ūlā fī l-wujūd (nœud v1-maslak1-marhala1)"
+    }
+  ],
+  "prerequis": [],
+  "pour_aller_plus_loin": [
+    "mahiyya",
+    "tashkik",
+    "asalat-al-wujud"
+  ],
+  "concepts_lies": [
+    "mahiyya"
+  ],
+  "notions": [
+    "asalat-al-wujud",
+    "tashkik"
+  ],
+  "validation": {
+    "texte_verifie": false,
+    "traduction_verifiee": false,
+    "vocalisation_verifiee": false,
+    "concepts_valides": false,
+    "niveau": "ebauche"
+  }
+}

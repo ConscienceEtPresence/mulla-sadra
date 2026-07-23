@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "mulla-sadra-parcours.schema.json",
+  "title": "Parcours de lecture — édition numérique des Asfār",
+  "description": "Un parcours = une séquence ORDONNÉE de fiches (concepts/notions). L'ordre est éditorial (décidé par Brahms). Le site fabrique automatiquement les liens « étape suivante ».",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "titre", "etapes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "titre": { "$ref": "mulla-sadra-fiche.schema.json#/$defs/texte_bilingue" },
+    "description": { "$ref": "mulla-sadra-fiche.schema.json#/$defs/texte_bilingue" },
+    "public": { "type": ["string", "null"] },
+    "statut": { "enum": ["ebauche", "en_cours", "pilote", "revu", "valide"] },
+    "etapes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ordre", "ref"],
+        "additionalProperties": true,
+        "properties": {
+          "ordre": { "type": "integer", "minimum": 1 },
+          "ref": { "type": "string", "description": "id d'une fiche concept ou notion" },
+          "type": { "enum": ["concept", "notion"] },
+          "pourquoi": { "type": ["string", "null"], "description": "pourquoi cette étape, à cette place" }
+        }
+      }
+    }
+  }
+}

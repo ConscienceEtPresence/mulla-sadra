@@ -1,0 +1,215 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "mulla-sadra-fiche.schema.json",
+  "title": "Fiche éditoriale (concept | notion) — édition numérique des Asfār",
+  "description": "Schéma STABLE des fiches scientifiques. Un seul contrat pour data/concepts/ (termes atomiques) et data/notions/ (doctrines). Toute la doctrine est rédigée par un humain (Brahms) ; l'IA ne remplit que la structure. additionalProperties:true pour laisser le contenu grandir sans casser le schéma.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "type", "terme", "validation"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "type": { "enum": ["concept", "notion"] },
+    "statut": {
+      "description": "Étape éditoriale de la fiche (workflow humain).",
+      "enum": ["ebauche", "en_cours", "pilote", "revu", "valide"]
+    },
+    "domaine": { "type": ["string", "null"] },
+    "voyage": { "type": ["integer", "null"], "minimum": 1, "maximum": 4 },
+
+    "terme": {
+      "type": "object",
+      "required": ["ar", "translit", "fr"],
+      "additionalProperties": true,
+      "properties": {
+        "ar": { "type": "string" },
+        "ar_vocalise": { "type": ["string", "null"] },
+        "translit": { "type": "string" },
+        "fr": { "type": "string" },
+        "en": { "type": ["string", "null"] },
+        "racine": { "type": ["string", "null"] },
+        "sens_litteral": { "type": ["string", "null"] }
+      }
+    },
+
+    "definitions": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Chaque définition porte son niveau de confiance/provenance.",
+      "properties": {
+        "courte": { "$ref": "#/$defs/texte_bilingue" },
+        "longue": { "$ref": "#/$defs/texte_bilingue" },
+        "philosophique": { "$ref": "#/$defs/bloc_edito" }
+      }
+    },
+
+    "importance": {
+      "description": "Pourquoi ce concept/cette doctrine compte (liste de points).",
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "fr": { "type": "array", "items": { "type": "string" } },
+        "en": { "type": "array", "items": { "type": "string" } },
+        "niveau_confiance": { "$ref": "#/$defs/niveau_confiance" }
+      }
+    },
+
+    "references": {
+      "description": "Renvois EXACTS dans le référentiel des Asfār (data/../structure/vol*.json). L'adresse réutilise le vocabulaire du référentiel ; le validateur vérifie que chaque référence résout vers un nœud existant.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/reference" }
+    },
+    "premiere_apparition": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/adresse" }
+    },
+    "developpements": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/reference" }
+    },
+
+    "prerequis": {
+      "description": "ids de concepts/notions à connaître AVANT (parcours de lecture automatique).",
+      "type": "array", "items": { "type": "string" }
+    },
+    "pour_aller_plus_loin": {
+      "description": "ids à étudier APRÈS.",
+      "type": "array", "items": { "type": "string" }
+    },
+    "concepts_lies": { "type": "array", "items": { "type": "string" } },
+    "notions": { "type": "array", "items": { "type": "string" } },
+
+    "difficultes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["niveau", "texte"],
+        "additionalProperties": true,
+        "properties": {
+          "niveau": { "enum": ["debutant", "intermediaire", "avance"] },
+          "texte": { "type": "string" }
+        }
+      }
+    },
+
+    "erreurs_classiques": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["erreur"],
+        "additionalProperties": true,
+        "properties": {
+          "erreur": { "type": "string" },
+          "correction": { "type": ["string", "null"] }
+        }
+      }
+    },
+
+    "questions": { "type": "array", "items": { "type": "string" } },
+
+    "comparaisons": {
+      "description": "Mises en perspective historiques — TOUJOURS marquées comme couche éditoriale/comparative, jamais présentées comme doctrine des Asfār.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["auteur", "relation"],
+        "additionalProperties": true,
+        "properties": {
+          "auteur": { "type": "string" },
+          "relation": { "type": "string" },
+          "niveau_confiance": { "$ref": "#/$defs/niveau_confiance" }
+        }
+      }
+    },
+
+    "citations_cles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["description"],
+        "additionalProperties": true,
+        "properties": {
+          "type": { "type": "string" },
+          "description": { "type": "string" },
+          "reference": { "$ref": "#/$defs/adresse" }
+        }
+      }
+    },
+
+    "niveaux": {
+      "description": "OPTIONNEL — les 5 niveaux de profondeur (surtout pour les notions). Structure libre, héritée du pilote.",
+      "type": "object", "additionalProperties": true
+    },
+    "reseau": {
+      "description": "OPTIONNEL/LEGACY — ancien graphe de la fiche pilote. À terme remplacé par prerequis/pour_aller_plus_loin/concepts_lies.",
+      "type": "object", "additionalProperties": true
+    },
+    "fil_suivant": { "type": ["string", "null"] },
+
+    "validation": {
+      "description": "Statut scientifique de la fiche — obligatoire. Sépare texte / traduction / vocalisation / concepts.",
+      "type": "object",
+      "required": ["niveau"],
+      "additionalProperties": true,
+      "properties": {
+        "texte_verifie": { "type": "boolean" },
+        "traduction_verifiee": { "type": "boolean" },
+        "vocalisation_verifiee": { "type": "boolean" },
+        "concepts_valides": { "type": "boolean" },
+        "niveau": { "enum": ["ebauche", "pilote", "revu", "valide"] }
+      }
+    }
+  },
+
+  "$defs": {
+    "niveau_confiance": {
+      "description": "Provenance d'un contenu éditorial — la distinction en 3 (+1) que Brahms exige.",
+      "enum": ["atteste", "synthese_editoriale", "comparaison", "hypothese"]
+    },
+    "texte_bilingue": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "fr": { "type": ["string", "null"] },
+        "en": { "type": ["string", "null"] }
+      }
+    },
+    "bloc_edito": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "fr": { "type": ["string", "null"] },
+        "en": { "type": ["string", "null"] },
+        "niveau_confiance": { "$ref": "#/$defs/niveau_confiance" },
+        "source": { "type": ["string", "null"] }
+      }
+    },
+    "adresse": {
+      "description": "Adresse dans le référentiel (mêmes clés que structure/schema.json).",
+      "type": "object",
+      "required": ["volume"],
+      "additionalProperties": true,
+      "properties": {
+        "volume": { "type": "integer" },
+        "safar": { "type": ["integer", "null"] },
+        "maslak": { "type": ["integer", "null"] },
+        "marhala": { "type": ["integer", "null"] },
+        "manhaj": { "type": ["integer", "null"] },
+        "fann": { "type": ["integer", "null"] },
+        "maqala": { "type": ["integer", "null"] },
+        "mawqif": { "type": ["integer", "null"] },
+        "bab": { "type": ["integer", "null"] },
+        "qism": { "type": ["integer", "null"] },
+        "taraf": { "type": ["integer", "null"] },
+        "fasl": { "type": ["integer", "null"] }
+      }
+    },
+    "reference": {
+      "allOf": [{ "$ref": "#/$defs/adresse" }],
+      "properties": {
+        "importance": { "enum": ["fondamental", "important", "secondaire"] },
+        "role": { "type": ["string", "null"] },
+        "note": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_note": "SQUELETTE. L'ordre des étapes est éditorial (à définir par Brahms). Une seule étape d'exemple ci-dessous pour montrer le format ; ajouter/ordonner les fiches ensuite.",
+  "id": "debutant",
+  "titre": { "fr": "Parcours débutant", "en": "Beginner path" },
+  "description": { "fr": "Une première traversée guidée, du concept d'existence à la primauté de l'existence.", "en": null },
+  "public": "lecteur sans formation philosophique préalable",
+  "statut": "ebauche",
+  "etapes": [
+    { "ordre": 1, "ref": "wujud", "type": "concept", "pourquoi": "Comprendre d'abord ce qu'est l'existence avant d'aborder sa primauté." },
+    { "ordre": 2, "ref": "mahiyya", "type": "concept", "pourquoi": "Le contraste essence / existence est la clé de tout ce qui suit." },
+    { "ordre": 3, "ref": "asalat-al-wujud", "type": "notion", "pourquoi": "La thèse centrale de Ṣadrā, une fois les deux termes en main." }
+  ]
+}

@@ -1,7 +1,15 @@
 {
   "_note": "Fiche-notion structurée (graine pour le générateur JSON→HTML). La page HTML actuelle est écrite à la main à partir de ces éléments.",
   "id": "asalat-al-wujud",
-  "terme": "asalat-al-wujud",
+  "terme": {
+    "ar": "أَصَالَةُ الْوُجُودِ",
+    "ar_vocalise": "أَصَالَةُ الْوُجُودِ",
+    "translit": "aṣālat al-wujūd",
+    "fr": "primauté de l'existence",
+    "en": "primacy of existence",
+    "racine": "أ ص ل (aṣl, « racine, fondement »)",
+    "sens_litteral": "le fait d'être fondamental, premier dans l'ordre du réel"
+  },
   "voyage": 1,
   "domaine": "wujud",
   "statut": "pilote",
@@ -9,12 +17,29 @@
   "une_phrase_en": "What makes a thing real is not its essence — what it is — but its act of existing.",
   "niveaux": {
     "1_saisir": true,
-    "2_experience": { "exemple": "le concept de feu ne brûle pas ; seul le feu existant brûle", "schema": true },
+    "2_experience": {
+      "exemple": "le concept de feu ne brûle pas ; seul le feu existant brûle",
+      "schema": true
+    },
     "3_raisonnement": {
       "etapes": 7,
-      "distinctions": ["concept/réalité de l'existence", "existence/essence", "unité du concept/gradation du réel", "existence absolue/existences déterminées"],
-      "contresens": ["existence = propriété ajoutée", "tous les êtres au même degré", "gradation = quantité", "primauté = négation de l'essence"],
-      "questions_internes": ["une et multiple ?", "réalité simple à degrés ?", "d'où vient l'essence ?"]
+      "distinctions": [
+        "concept/réalité de l'existence",
+        "existence/essence",
+        "unité du concept/gradation du réel",
+        "existence absolue/existences déterminées"
+      ],
+      "contresens": [
+        "existence = propriété ajoutée",
+        "tous les êtres au même degré",
+        "gradation = quantité",
+        "primauté = négation de l'essence"
+      ],
+      "questions_internes": [
+        "une et multiple ?",
+        "réalité simple à degrés ?",
+        "d'où vient l'essence ?"
+      ]
     },
     "4_texte": {
       "reference": "al-Ḥikma al-mutaʿāliya fī l-asfār al-ʿaqliyya al-arbaʿa — Voyage I, Partie 1, al-marḥala al-ūlā (fī l-wujūd), éd. t. 1, p. 49",
@@ -30,9 +55,117 @@
     "5_systeme": true
   },
   "reseau": {
-    "depend_de": [{ "id": "distinction wujūd/māhiyya", "ar": "وُجُود / مَاهِيَّة" }],
-    "rend_possible": ["tashkik", "haraka-jawhariyya", "nafs", "maad"],
-    "liees": ["mahiyya", "wujud-dhihni", "wahdat-al-wujud"]
+    "depend_de": [
+      {
+        "id": "distinction wujūd/māhiyya",
+        "ar": "وُجُود / مَاهِيَّة"
+      }
+    ],
+    "rend_possible": [
+      "tashkik",
+      "haraka-jawhariyya",
+      "nafs",
+      "maad"
+    ],
+    "liees": [
+      "mahiyya",
+      "wujud-dhihni",
+      "wahdat-al-wujud"
+    ]
   },
-  "fil_suivant": "tashkik"
+  "fil_suivant": "tashkik",
+  "type": "notion",
+  "definitions": {
+    "philosophique": {
+      "fr": "La doctrine de l'aṣālat al-wujūd affirme que ce qui possède une réalité extramentale est l'existence elle-même (al-wujūd), tandis que les essences (al-māhiyyāt) ne possèdent pas, par elles-mêmes, cette réalité. Les essences déterminent ce qu'une chose est ; l'existence est ce qui la fait être effectivement.",
+      "niveau_confiance": "synthese_editoriale",
+      "source": "Synthèse éditoriale fondée sur le Voyage I."
+    }
+  },
+  "importance": {
+    "fr": [
+      "C'est le point de départ de toute la métaphysique de Mullā Ṣadrā.",
+      "Cette doctrine rend possible la gradation de l'être (tashkīk al-wujūd).",
+      "Elle fonde ensuite la théorie du mouvement substantiel.",
+      "Elle modifie profondément la compréhension de la causalité."
+    ]
+  },
+  "references": [
+    {
+      "volume": 1,
+      "marhala": 1,
+      "manhaj": 1,
+      "fasl": 4,
+      "importance": "fondamental",
+      "role": "démonstration centrale",
+      "note": "« في أن للوجود حقيقة عينية » — que l'existence a une réalité concrète (nœud v1-m1-mn1-f4)"
+    }
+  ],
+  "premiere_apparition": [
+    {
+      "volume": 1,
+      "marhala": 1,
+      "manhaj": 1
+    }
+  ],
+  "prerequis": [
+    "wujud",
+    "mahiyya",
+    "maqulat"
+  ],
+  "pour_aller_plus_loin": [
+    "tashkik",
+    "al-illa",
+    "haraka-jawhariyya",
+    "basit-al-haqiqa"
+  ],
+  "erreurs_classiques": [
+    {
+      "erreur": "Croire que l'essence n'existe pas.",
+      "correction": "Ṣadrā ne nie pas les essences ; il nie qu'elles soient premières dans l'ordre de la réalité."
+    },
+    {
+      "erreur": "Croire que l'existence est une propriété ajoutée.",
+      "correction": "L'existence constitue l'acte même du réel."
+    },
+    {
+      "erreur": "Confondre l'unité du concept d'existence avec l'uniformité des êtres.",
+      "correction": null
+    }
+  ],
+  "questions": [
+    "Pourquoi l'essence ne suffit-elle pas à expliquer le réel ?",
+    "Comment quelque chose peut-il être réel si son essence n'est pas première ?",
+    "Pourquoi cette doctrine conduit-elle à la gradation de l'être ?"
+  ],
+  "comparaisons": [
+    {
+      "auteur": "Avicenne",
+      "relation": "L'existence distingue l'être réel, mais la primauté de l'existence n'est pas formulée comme chez Ṣadrā.",
+      "niveau_confiance": "comparaison"
+    },
+    {
+      "auteur": "Suhrawardī",
+      "relation": "Donne une place centrale aux essences lumineuses ; Ṣadrā renverse cette perspective.",
+      "niveau_confiance": "comparaison"
+    }
+  ],
+  "citations_cles": [
+    {
+      "type": "fondatrice",
+      "description": "Le passage autobiographique où Ṣadrā explique qu'il est passé de la primauté des essences à la primauté de l'existence.",
+      "reference": {
+        "volume": 1,
+        "marhala": 1,
+        "manhaj": 1
+      }
+    }
+  ],
+  "validation": {
+    "texte_verifie": false,
+    "traduction_verifiee": false,
+    "vocalisation_verifiee": false,
+    "concepts_valides": false,
+    "niveau": "pilote"
+  }
 }
