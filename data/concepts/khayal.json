@@ -1,0 +1,28 @@
+{
+  "id": "khayal",
+  "ar": "الخيال",
+  "translit": "al-khayāl",
+  "fr": "Imagination",
+  "definition_courte": "Faculté intermédiaire entre les sens et l'intellect.",
+  "definition_longue": "Chez Mullā Ṣadrā, l'imagination n'est pas une simple activité psychologique. Elle constitue un niveau réel de la connaissance et participe à l'accès au monde imaginal.",
+  "prerequis": [
+    "nafs"
+  ],
+  "concepts_lies": [
+    "alam-al-mithal",
+    "aql",
+    "hiss"
+  ],
+  "questions": [
+    "Pourquoi l'imagination possède-t-elle une valeur ontologique ?",
+    "Comment diffère-t-elle de la perception sensible ?"
+  ],
+  "references": [
+    {
+      "volume": 8,
+      "bab": 5,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

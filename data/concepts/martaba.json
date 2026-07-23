@@ -1,0 +1,18 @@
+{
+  "id": "martaba",
+  "ar": "المرتبة",
+  "translit": "al-martaba",
+  "fr": "Degré ontologique",
+  "definition_courte": "Niveau déterminé dans la hiérarchie de l'être.",
+  "definition_longue": "Toute réalité occupe une martaba, c'est-à-dire un degré propre d'existence. Les différences entre les êtres sont comprises comme des différences de degré et d'intensité de l'être plutôt que comme des réalités totalement séparées.",
+  "concepts_lies": [
+    "tashkik",
+    "shiddat-al-wujud",
+    "kamal"
+  ],
+  "questions": [
+    "Pourquoi l'être est-il hiérarchisé ?",
+    "Comment un être peut-il passer d'un degré à un autre ?"
+  ],
+  "statut": "editorial"
+}

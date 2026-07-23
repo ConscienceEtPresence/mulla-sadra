@@ -1,0 +1,18 @@
+{
+  "id": "tashakhkhus",
+  "ar": "التشخص",
+  "translit": "al-tashakhkhuṣ",
+  "fr": "Individualisation",
+  "definition_courte": "Principe par lequel un être est cet être précis et aucun autre.",
+  "definition_longue": "Pour Mullā Ṣadrā, l'individualité ne provient pas uniquement de la matière mais du degré singulier d'existence propre à chaque être.",
+  "concepts_lies": [
+    "wujud",
+    "mahiyya",
+    "tashkik"
+  ],
+  "questions": [
+    "Pourquoi deux individus ayant la même essence sont-ils différents ?",
+    "Quel rôle joue l'existence dans l'individualité ?"
+  ],
+  "statut": "editorial"
+}

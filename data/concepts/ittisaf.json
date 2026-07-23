@@ -1,0 +1,17 @@
+{
+  "id": "ittisaf",
+  "ar": "الاتصاف",
+  "translit": "al-ittiṣāf",
+  "fr": "Attribution",
+  "definition_courte": "Relation par laquelle un sujet reçoit une qualification.",
+  "definition_longue": "Cette notion intervient dans les analyses logiques et métaphysiques des prédications et de la manière dont les propriétés sont attribuées aux êtres.",
+  "concepts_lies": [
+    "mahiyya",
+    "wujud"
+  ],
+  "questions": [
+    "Une propriété appartient-elle à l'essence ou à l'existence ?",
+    "Comment comprendre la prédication en métaphysique ?"
+  ],
+  "statut": "editorial"
+}

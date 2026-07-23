@@ -1,0 +1,18 @@
+{
+  "id": "surah-dhihniyya",
+  "ar": "الصورة الذهنية",
+  "translit": "al-ṣūra al-dhihniyya",
+  "fr": "Forme mentale",
+  "definition_courte": "Représentation intelligible d'une réalité dans l'esprit.",
+  "definition_longue": "La forme mentale est ce par quoi l'intellect appréhende une chose. Dans les Asfār, cette notion est progressivement dépassée par la théorie de la connaissance par présence.",
+  "concepts_lies": [
+    "ilm-husuli",
+    "ilm-huduri",
+    "aql"
+  ],
+  "questions": [
+    "Toute connaissance repose-t-elle sur une représentation ?",
+    "Pourquoi Mullā Ṣadrā dépasse-t-il cette conception ?"
+  ],
+  "statut": "editorial"
+}

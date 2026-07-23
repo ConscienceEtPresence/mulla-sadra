@@ -1,0 +1,25 @@
+{
+  "id": "ittihad",
+  "ar": "الاتحاد",
+  "translit": "al-ittiḥād",
+  "fr": "Union",
+  "definition_courte": "Réalisation d'une unité réelle entre deux réalités selon un certain mode d'être.",
+  "definition_longue": "Le concept d'union apparaît dans plusieurs doctrines des Asfār, notamment dans l'union de l'intellect et de l'intelligible. Il ne signifie pas confusion mais accomplissement d'une identité ontologique selon un degré déterminé.",
+  "concepts_lies": [
+    "ittihad-al-aqil-wa-al-maqul",
+    "tashkik",
+    "aql"
+  ],
+  "questions": [
+    "Comment deux réalités peuvent-elles être unies sans disparaître ?",
+    "Pourquoi l'union relève-t-elle de l'être plutôt que de la logique ?"
+  ],
+  "references": [
+    {
+      "volume": 3,
+      "marhala": 10,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

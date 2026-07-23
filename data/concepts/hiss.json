@@ -1,0 +1,17 @@
+{
+  "id": "hiss",
+  "ar": "الحس",
+  "translit": "al-ḥiss",
+  "fr": "Perception sensible",
+  "definition_courte": "Premier niveau de connaissance par les sens.",
+  "definition_longue": "La perception sensible constitue le point de départ de la connaissance humaine. Elle fournit la matière première qui sera progressivement élaborée par l'imagination puis par l'intellect.",
+  "concepts_lies": [
+    "khayal",
+    "nafs"
+  ],
+  "questions": [
+    "Pourquoi les sens ne suffisent-ils pas à connaître la réalité ?",
+    "Quel est leur rôle dans la connaissance intellectuelle ?"
+  ],
+  "statut": "editorial"
+}
