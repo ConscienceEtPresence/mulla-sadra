@@ -1,0 +1,30 @@
+{
+  "id": "mahiyya",
+  "ar": "الماهية",
+  "translit": "al-māhiyya",
+  "fr": "Essence",
+  "definition_courte": "Ce par quoi une chose est ce qu'elle est.",
+  "definition_longue": "L'essence répond à la question « qu'est-ce que c'est ? ». Dans la doctrine de Mullā Ṣadrā, elle ne constitue pas la réalité première mais détermine les modes sous lesquels l'existence se manifeste.",
+  "concepts_lies": [
+    "wujud",
+    "asalat-al-wujud",
+    "tashkik"
+  ],
+  "questions": [
+    "Une essence existe-t-elle par elle-même ?",
+    "Pourquoi plusieurs individus partagent-ils une même essence ?",
+    "Quel rapport entre essence et existence ?"
+  ],
+  "references": [
+    {
+      "volume": 2,
+      "marhala": 4,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial",
+  "validation": {
+    "body_verified": false,
+    "human_review": false
+  }
+}

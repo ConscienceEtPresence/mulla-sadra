@@ -1,0 +1,32 @@
+{
+  "id": "tashkik",
+  "ar": "تشكيك الوجود",
+  "translit": "tashkīk al-wujūd",
+  "fr": "Gradation de l'être",
+  "definition_courte": "L'existence est une réalité unique qui se manifeste selon des degrés.",
+  "definition_longue": "Tous les êtres participent de la même réalité de l'existence, mais avec des degrés d'intensité différents. Cette doctrine permet d'unifier la multiplicité sans supprimer les différences.",
+  "prerequis": [
+    "wujud",
+    "mahiyya",
+    "asalat-al-wujud"
+  ],
+  "ouvre_vers": [
+    "haraka-jawhariyya",
+    "basit-al-haqiqa",
+    "al-illa"
+  ],
+  "erreurs": [
+    "Croire que tous les êtres sont identiques.",
+    "Réduire les degrés à une quantité mesurable.",
+    "Confondre unité du concept et unité de la réalité."
+  ],
+  "references": [
+    {
+      "volume": 1,
+      "maslak": 1,
+      "marhala": 1,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}

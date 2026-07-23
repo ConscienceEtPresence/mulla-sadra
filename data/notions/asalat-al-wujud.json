@@ -201,5 +201,50 @@
       "liens": "validated",
       "verification_corps": false
     }
+  },
+  "enrichissement": {
+    "probleme_philosophique": {
+      "fr": "Pourquoi des êtres très différents peuvent-ils tous être dits « existants » ? Si l'existence n'est qu'un concept commun, comment expliquer la réalité concrète des choses ? Si l'essence est première, comment rendre compte de l'acte même d'être ?",
+      "en": "How can radically different beings all be said to exist? If existence is only a common concept, what accounts for concrete reality?"
+    },
+    "idee_directrice": {
+      "fr": "La métaphysique sadrienne répond que la réalité appartient d'abord à l'existence elle-même. Les essences déterminent les modes sous lesquels cette réalité apparaît, mais ne constituent pas son fondement."
+    },
+    "objectifs_de_lecture": [
+      "Comprendre la différence entre essence et existence.",
+      "Comprendre pourquoi cette distinction transforme toute la métaphysique.",
+      "Préparer la compréhension du tashkīk al-wujūd.",
+      "Préparer la théorie du mouvement substantiel."
+    ],
+    "questions_guides": [
+      "Qu'est-ce qui existe réellement ?",
+      "Une essence suffit-elle pour rendre une chose réelle ?",
+      "Pourquoi plusieurs êtres peuvent-ils partager une même réalité de l'être sans être identiques ?"
+    ],
+    "erreurs_frequentes": [
+      {
+        "idee": "La doctrine supprime les essences.",
+        "correction": "Les essences demeurent intelligibles ; elles ne constituent simplement pas le principe premier de la réalité."
+      },
+      {
+        "idee": "L'existence est un attribut ajouté.",
+        "correction": "L'existence est comprise comme l'acte même du réel."
+      },
+      {
+        "idee": "La gradation signifie seulement plus ou moins de quantité.",
+        "correction": "La gradation concerne l'intensité ontologique et non une mesure quantitative."
+      }
+    ],
+    "progression": {
+      "avant": [
+        "wujud",
+        "mahiyya"
+      ],
+      "apres": [
+        "tashkik",
+        "al-illa",
+        "haraka-jawhariyya"
+      ]
+    }
   }
 }

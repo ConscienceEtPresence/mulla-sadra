@@ -1,0 +1,25 @@
+{
+  "id": "al-illa",
+  "ar": "العلة",
+  "translit": "al-ʿilla",
+  "fr": "Cause",
+  "definition_courte": "Principe dont dépend l'existence d'un autre être.",
+  "definition_longue": "Dans la métaphysique sadrienne, la causalité ne relie pas seulement deux objets ; elle exprime une dépendance dans l'ordre même de l'être.",
+  "concepts_lies": [
+    "al-malul",
+    "wujud",
+    "tashkik"
+  ],
+  "questions": [
+    "Pourquoi l'effet dépend-il continuellement de sa cause ?",
+    "Quel rapport entre causalité et degrés d'être ?"
+  ],
+  "references": [
+    {
+      "volume": 2,
+      "marhala": 6,
+      "importance": "fondamental"
+    }
+  ],
+  "statut": "editorial"
+}
