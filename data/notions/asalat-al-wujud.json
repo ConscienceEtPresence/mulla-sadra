@@ -75,21 +75,6 @@
   },
   "fil_suivant": "tashkik",
   "type": "notion",
-  "definitions": {
-    "philosophique": {
-      "fr": "La doctrine de l'aṣālat al-wujūd affirme que ce qui possède une réalité extramentale est l'existence elle-même (al-wujūd), tandis que les essences (al-māhiyyāt) ne possèdent pas, par elles-mêmes, cette réalité. Les essences déterminent ce qu'une chose est ; l'existence est ce qui la fait être effectivement.",
-      "niveau_confiance": "synthese_editoriale",
-      "source": "Synthèse éditoriale fondée sur le Voyage I."
-    }
-  },
-  "importance": {
-    "fr": [
-      "C'est le point de départ de toute la métaphysique de Mullā Ṣadrā.",
-      "Cette doctrine rend possible la gradation de l'être (tashkīk al-wujūd).",
-      "Elle fonde ensuite la théorie du mouvement substantiel.",
-      "Elle modifie profondément la compréhension de la causalité."
-    ]
-  },
   "references": [
     {
       "volume": 1,
@@ -108,64 +93,113 @@
       "manhaj": 1
     }
   ],
-  "prerequis": [
-    "wujud",
-    "mahiyya",
-    "maqulat"
-  ],
-  "pour_aller_plus_loin": [
-    "tashkik",
-    "al-illa",
-    "haraka-jawhariyya",
-    "basit-al-haqiqa"
-  ],
-  "erreurs_classiques": [
-    {
-      "erreur": "Croire que l'essence n'existe pas.",
-      "correction": "Ṣadrā ne nie pas les essences ; il nie qu'elles soient premières dans l'ordre de la réalité."
-    },
-    {
-      "erreur": "Croire que l'existence est une propriété ajoutée.",
-      "correction": "L'existence constitue l'acte même du réel."
-    },
-    {
-      "erreur": "Confondre l'unité du concept d'existence avec l'uniformité des êtres.",
-      "correction": null
-    }
-  ],
-  "questions": [
-    "Pourquoi l'essence ne suffit-elle pas à expliquer le réel ?",
-    "Comment quelque chose peut-il être réel si son essence n'est pas première ?",
-    "Pourquoi cette doctrine conduit-elle à la gradation de l'être ?"
-  ],
-  "comparaisons": [
-    {
-      "auteur": "Avicenne",
-      "relation": "L'existence distingue l'être réel, mais la primauté de l'existence n'est pas formulée comme chez Ṣadrā.",
-      "niveau_confiance": "comparaison"
-    },
-    {
-      "auteur": "Suhrawardī",
-      "relation": "Donne une place centrale aux essences lumineuses ; Ṣadrā renverse cette perspective.",
-      "niveau_confiance": "comparaison"
-    }
-  ],
-  "citations_cles": [
-    {
-      "type": "fondatrice",
-      "description": "Le passage autobiographique où Ṣadrā explique qu'il est passé de la primauté des essences à la primauté de l'existence.",
-      "reference": {
-        "volume": 1,
-        "marhala": 1,
-        "manhaj": 1
-      }
-    }
-  ],
   "validation": {
     "texte_verifie": false,
     "traduction_verifiee": false,
     "vocalisation_verifiee": false,
     "concepts_valides": false,
     "niveau": "pilote"
+  },
+  "enrichissement_editorial": {
+    "definition_philosophique": {
+      "fr": "La doctrine de l’aṣālat al-wujūd soutient que l’existence (al-wujūd) constitue la réalité première des choses. Les essences (al-māhiyyāt) déterminent ce qu’une chose est intelligiblement, mais ne possèdent pas, par elles-mêmes, de réalité extramentale indépendante.",
+      "source": "Synthèse éditoriale fondée sur la structure doctrinale du Voyage I.",
+      "statut": "editorial_summary"
+    },
+    "enjeu": {
+      "fr": [
+        "Fonde toute la métaphysique de Mullā Ṣadrā.",
+        "Explique pourquoi les êtres peuvent être réellement distincts tout en participant d'une même réalité de l'existence.",
+        "Permet ensuite la doctrine de la gradation de l'être (tashkīk al-wujūd).",
+        "Prépare la théorie du mouvement substantiel.",
+        "Transforme la compréhension de la causalité et de la connaissance."
+      ]
+    },
+    "prerequis": [
+      "wujud",
+      "mahiyya"
+    ],
+    "ouvre_vers": [
+      "tashkik",
+      "al-illa",
+      "haraka-jawhariyya",
+      "basit-al-haqiqa"
+    ],
+    "lexique": [
+      {
+        "ar": "الوجود",
+        "translit": "al-wujūd",
+        "fr": "existence"
+      },
+      {
+        "ar": "الماهية",
+        "translit": "al-māhiyya",
+        "fr": "essence"
+      },
+      {
+        "ar": "تأصل",
+        "translit": "taʾaṣṣul",
+        "fr": "primauté ontologique"
+      }
+    ],
+    "contresens_expliques": [
+      {
+        "idee": "La primauté de l'existence supprime les essences.",
+        "explication": "La doctrine ne supprime pas les essences ; elle affirme seulement qu'elles ne constituent pas la réalité première."
+      },
+      {
+        "idee": "L'existence est un attribut ajouté aux essences.",
+        "explication": "L'existence est comprise comme l'acte même du réel et non comme une propriété extérieure."
+      },
+      {
+        "idee": "Tous les êtres existent exactement de la même manière.",
+        "explication": "La doctrine conduit précisément à reconnaître des degrés de réalité, développés dans la théorie du tashkīk."
+      }
+    ],
+    "questions_de_lecture": [
+      "Pourquoi l'essence ne suffit-elle pas à expliquer le réel ?",
+      "Comment plusieurs êtres peuvent-ils participer d'une même réalité de l'existence ?",
+      "Pourquoi cette doctrine conduit-elle à la gradation de l'être ?"
+    ],
+    "comparaisons_historiques": [
+      {
+        "auteur": "Avicenne",
+        "type": "mise_en_perspective",
+        "resume": "Le rapport entre essence et existence constitue déjà une question centrale, mais la formulation de la primauté de l'existence appartient au développement sadrien."
+      },
+      {
+        "auteur": "Suhrawardī",
+        "type": "mise_en_perspective",
+        "resume": "La philosophie illuminationniste accorde un rôle différent aux essences ; Mullā Ṣadrā inverse cette perspective."
+      }
+    ],
+    "niveau_difficulte": {
+      "niveau": 5,
+      "raisons": [
+        "Vocabulaire technique.",
+        "Présuppose la distinction entre essence et existence.",
+        "Conditionne toute la métaphysique ultérieure des Asfār."
+      ]
+    },
+    "carte_conceptuelle": {
+      "avant": [
+        "wujud",
+        "mahiyya"
+      ],
+      "centre": "asalat-al-wujud",
+      "apres": [
+        "tashkik",
+        "al-illa",
+        "haraka-jawhariyya",
+        "basit-al-haqiqa"
+      ]
+    },
+    "validation_editoriale": {
+      "resume": "editorial_summary",
+      "comparaisons": "editorial",
+      "lexique": "validated",
+      "liens": "validated",
+      "verification_corps": false
+    }
   }
 }

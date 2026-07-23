@@ -61,10 +61,15 @@ def main():
                 jsonschema.validate(d, fiche_s, resolver=RefResolver(fiche_s["$id"], fiche_s, store))
             except jsonschema.ValidationError as e:
                 errs.append(f"{nm}: schéma: {e.message}")
-        # références → référentiel
-        refs = list(d.get("references", [])) + list(d.get("developpements", [])) + list(d.get("premiere_apparition", []))
+        # références → référentiel (premiere_apparition peut être objet ou liste ; on ne résout que si `volume`)
+        def as_refs(x):
+            if isinstance(x, dict): return [x]
+            if isinstance(x, list): return [e for e in x if isinstance(e, dict)]
+            return []
+        refs = as_refs(d.get("references")) + as_refs(d.get("developpements")) + as_refs(d.get("premiere_apparition"))
         for c in d.get("citations_cles", []):
             if c.get("reference"): refs.append(c["reference"])
+        refs = [r for r in refs if r.get("volume") is not None]
         for r in refs:
             hits = resolve(idx, r)
             addr = "v%s " % r.get("volume") + " ".join(f"{k}{r[k]}" for k in ADDR_KEYS if r.get(k) is not None)
@@ -74,11 +79,19 @@ def main():
                 errs.append(f"{nm}: référence NON résolue → {addr}")
             else:
                 warns.append(f"{nm}: référence AMBIGUË ({len(hits)} nœuds) → {addr}")
-        # liens croisés
-        for key in ("prerequis","pour_aller_plus_loin","concepts_lies","notions"):
-            for tid in d.get(key, []):
-                if tid not in ids:
-                    warns.append(f"{nm}: {key} → « {tid} » (fiche pas encore créée)")
+        # liens croisés : au niveau racine ET dans enrichissement_editorial / carte_conceptuelle
+        def collect_links(obj):
+            out = []
+            for key in ("prerequis","pour_aller_plus_loin","ouvre_vers","concepts_lies","notions"):
+                out += [(key, t) for t in obj.get(key, []) if isinstance(t, str)]
+            cc = obj.get("carte_conceptuelle", {})
+            for key in ("avant","apres"):
+                out += [("carte_conceptuelle."+key, t) for t in cc.get(key, []) if isinstance(t, str)]
+            return out
+        links_to_check = collect_links(d) + collect_links(d.get("enrichissement_editorial", {}))
+        for key, tid in links_to_check:
+            if tid not in ids:
+                warns.append(f"{nm}: {key} → « {tid} » (fiche pas encore créée)")
 
     # parcours
     for p in sorted(glob.glob(os.path.join(HERE, "parcours", "*.json"))):
